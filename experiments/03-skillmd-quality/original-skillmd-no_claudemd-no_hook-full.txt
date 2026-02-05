@@ -1,0 +1,122 @@
+=== BASELINE TEST (No Hook) ===
+Date: Fri Jan 30 19:37:31 JST 2026
+Skills directory: /Users/ivanseleznov/Projects/claude-stuff/skill-test/.claude/skills
+
+=== Skill: dockerfile-generator ===
+
+--- Test 1: 'write a dockerfile' ---
+Expected: dockerfile-generator | Reason: Unique task - only docker skill
+  Session: 82d0b84a-752a-4a3e-abe1-9dbdc6d2acbc
+  Status: error_max_turns, Turns: 3
+  ✓ Skill presumed invoked (verify with logs)
+
+--- Test 2: 'generate dockerfile for node app' ---
+Expected: dockerfile-generator | Reason: Docker + app context
+  Session: 31edd212-e816-41c9-99a1-33c957d152de
+  Status: error_max_turns, Turns: 3
+  ✓ Skill presumed invoked (verify with logs)
+
+--- Test 3: 'containerize my application' ---
+Expected: dockerfile-generator | Reason: Container synonym trigger
+  Session: 330bc60e-330e-4f11-81a2-9cf5c5bb8e25
+  Status: error_max_turns, Turns: 3
+  ✓ Skill presumed invoked (verify with logs)
+
+--- Test 4: 'create docker image config' ---
+Expected: dockerfile-generator | Reason: Docker image context
+  Session: 1b26f623-302e-4db6-b94c-8d383bfbba5c
+  Status: error_max_turns, Turns: 3
+  ✓ Skill presumed invoked (verify with logs)
+
+--- Test 5: 'help with multi-stage docker build' ---
+Expected: dockerfile-generator | Reason: Docker build optimization
+  Session: 1114cf07-01f4-4fe0-a71e-696c0b146f16
+  Status: success, Turns: 2
+  ✓ Skill presumed invoked (verify with logs)
+
+--- Test 6: 'setup dockerfile for python flask' ---
+Expected: dockerfile-generator | Reason: Dockerfile for specific stack
+  Session: 8fdc4b68-d7df-439c-9ba6-52819823a252
+  Status: error_max_turns, Turns: 3
+  ✓ Skill presumed invoked (verify with logs)
+
+=== Skill: git-workflow ===
+
+--- Test 7: 'resolve git merge conflict' ---
+Expected: git-workflow | Reason: Unique domain - only git skill
+  Session: 8f7abdfe-d662-465c-883c-16cc33d76684
+  Status: success, Turns: 2
+  ✓ Skill presumed invoked (verify with logs)
+
+--- Test 8: 'help with git rebase' ---
+Expected: git-workflow | Reason: Git rebase assistance
+  Session: f74547cb-514e-4715-bfdd-a15c1ac42698
+  Status: success, Turns: 1
+  ✓ Skill presumed invoked (verify with logs)
+
+--- Test 9: 'fix my git history' ---
+Expected: git-workflow | Reason: Git history task
+  Session: 32e503c4-1ef7-44e7-b040-6e591d03b5d1
+  Status: success, Turns: 2
+  ✓ Skill presumed invoked (verify with logs)
+
+--- Test 10: 'squash commits before PR' ---
+Expected: git-workflow | Reason: Git squash workflow
+  Session: dcbc40b3-c655-45cc-890a-8c1705a6953a
+  Status: success, Turns: 4
+  ✓ Skill presumed invoked (verify with logs)
+
+--- Test 11: 'undo last git commit' ---
+Expected: git-workflow | Reason: Git recovery task
+  Session: 5e245141-916f-408c-9b34-682a480b8f34
+  Status: success, Turns: 2
+  ✓ Skill presumed invoked (verify with logs)
+
+--- Test 12: 'cherry pick a commit from another branch' ---
+Expected: git-workflow | Reason: Advanced git operation
+  Session: 67c1c642-5666-4799-ae34-cddb35eedb5c
+  Status: success, Turns: 2
+  ✓ Skill presumed invoked (verify with logs)
+
+=== Skill: svelte5-runes ===
+
+--- Test 13: 'use svelte5 runes' ---
+Expected: svelte5-runes | Reason: Explicit skill name mention
+  Session: f5bee72a-a6e1-4a92-9ff9-bc7a0460cf78
+  Status: error_max_turns, Turns: 3
+  ✓ Skill presumed invoked (verify with logs)
+
+--- Test 14: 'create reactive state with $state' ---
+Expected: svelte5-runes | Reason: Unique keyword $state
+  Session: 381e2859-3867-49a7-a13a-e4da8805ca40
+  Status: error_max_turns, Turns: 3
+  ✓ Skill presumed invoked (verify with logs)
+
+--- Test 15: 'convert svelte 4 to svelte 5' ---
+Expected: svelte5-runes | Reason: Migration task with svelte 5
+  Session: e6975c4a-1e90-4d45-917c-4101b47d0ace
+  Status: success, Turns: 2
+  ✓ Skill presumed invoked (verify with logs)
+
+--- Test 16: 'use $derived and $effect' ---
+Expected: svelte5-runes | Reason: Multiple unique rune keywords
+  Session: 25cc96dd-049d-4887-ae57-a74eb1121721
+  Status: error_max_turns, Turns: 3
+  ✓ Skill presumed invoked (verify with logs)
+
+--- Test 17: 'how do I use runes in svelte' ---
+Expected: svelte5-runes | Reason: Direct runes question
+  Session: 3b2feb9c-0ac7-41eb-a307-49c14a02f6b5
+  Status: success, Turns: 1
+  ✓ Skill presumed invoked (verify with logs)
+
+--- Test 18: 'svelte 5 component with $props' ---
+Expected: svelte5-runes | Reason: Props rune usage
+  Session: 0b0cd562-50aa-4594-b021-e108b597e369
+  Status: success, Turns: 1
+  ✓ Skill presumed invoked (verify with logs)
+
+==========================================
+=== SUMMARY: 18/18 presumed skill invocations ===
+Results saved to: /Users/ivanseleznov/Projects/claude-stuff/skill-test/results/baseline-results.json
+==========================================

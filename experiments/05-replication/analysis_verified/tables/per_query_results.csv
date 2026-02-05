@@ -1,0 +1,217 @@
+query,skill,variant,condition,n,successes,rate,ci_lo,ci_hi
+cherry pick a commit from another branch,git-workflow,a,c1,3,3,1.0,0.43850296824495444,1.0
+cherry pick a commit from another branch,git-workflow,a,c2,3,3,1.0,0.43850296824495444,1.0
+cherry pick a commit from another branch,git-workflow,a,c3,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979523
+cherry pick a commit from another branch,git-workflow,a,c4,3,3,1.0,0.43850296824495444,1.0
+cherry pick a commit from another branch,git-workflow,b,c1,3,3,1.0,0.43850296824495444,1.0
+cherry pick a commit from another branch,git-workflow,b,c2,3,3,1.0,0.43850296824495444,1.0
+cherry pick a commit from another branch,git-workflow,b,c3,3,3,1.0,0.43850296824495444,1.0
+cherry pick a commit from another branch,git-workflow,b,c4,3,3,1.0,0.43850296824495444,1.0
+cherry pick a commit from another branch,git-workflow,c,c1,3,3,1.0,0.43850296824495444,1.0
+cherry pick a commit from another branch,git-workflow,c,c2,3,3,1.0,0.43850296824495444,1.0
+cherry pick a commit from another branch,git-workflow,c,c3,3,3,1.0,0.43850296824495444,1.0
+cherry pick a commit from another branch,git-workflow,c,c4,3,3,1.0,0.43850296824495444,1.0
+containerize my application,dockerfile-generator,a,c1,4,4,1.0,0.5101091635454025,1.0
+containerize my application,dockerfile-generator,a,c2,3,3,1.0,0.43850296824495444,1.0
+containerize my application,dockerfile-generator,a,c3,3,2,0.6666666666666666,0.2076596008020477,0.9385080552796037
+containerize my application,dockerfile-generator,a,c4,3,3,1.0,0.43850296824495444,1.0
+containerize my application,dockerfile-generator,b,c1,3,3,1.0,0.43850296824495444,1.0
+containerize my application,dockerfile-generator,b,c2,3,3,1.0,0.43850296824495444,1.0
+containerize my application,dockerfile-generator,b,c3,3,3,1.0,0.43850296824495444,1.0
+containerize my application,dockerfile-generator,b,c4,3,3,1.0,0.43850296824495444,1.0
+containerize my application,dockerfile-generator,c,c1,3,3,1.0,0.43850296824495444,1.0
+containerize my application,dockerfile-generator,c,c2,3,3,1.0,0.43850296824495444,1.0
+containerize my application,dockerfile-generator,c,c3,3,3,1.0,0.43850296824495444,1.0
+containerize my application,dockerfile-generator,c,c4,3,3,1.0,0.43850296824495444,1.0
+convert svelte 4 to svelte 5,svelte5-runes,a,c1,3,2,0.6666666666666666,0.2076596008020477,0.9385080552796037
+convert svelte 4 to svelte 5,svelte5-runes,a,c2,3,3,1.0,0.43850296824495444,1.0
+convert svelte 4 to svelte 5,svelte5-runes,a,c3,3,0,0.0,0.0,0.5614970317550455
+convert svelte 4 to svelte 5,svelte5-runes,a,c4,3,3,1.0,0.43850296824495444,1.0
+convert svelte 4 to svelte 5,svelte5-runes,b,c1,3,3,1.0,0.43850296824495444,1.0
+convert svelte 4 to svelte 5,svelte5-runes,b,c2,3,3,1.0,0.43850296824495444,1.0
+convert svelte 4 to svelte 5,svelte5-runes,b,c3,3,3,1.0,0.43850296824495444,1.0
+convert svelte 4 to svelte 5,svelte5-runes,b,c4,3,3,1.0,0.43850296824495444,1.0
+convert svelte 4 to svelte 5,svelte5-runes,c,c1,3,3,1.0,0.43850296824495444,1.0
+convert svelte 4 to svelte 5,svelte5-runes,c,c2,3,3,1.0,0.43850296824495444,1.0
+convert svelte 4 to svelte 5,svelte5-runes,c,c3,3,3,1.0,0.43850296824495444,1.0
+convert svelte 4 to svelte 5,svelte5-runes,c,c4,3,3,1.0,0.43850296824495444,1.0
+create docker image config,dockerfile-generator,a,c1,3,3,1.0,0.43850296824495444,1.0
+create docker image config,dockerfile-generator,a,c2,3,3,1.0,0.43850296824495444,1.0
+create docker image config,dockerfile-generator,a,c3,3,2,0.6666666666666666,0.2076596008020477,0.9385080552796037
+create docker image config,dockerfile-generator,a,c4,3,3,1.0,0.43850296824495444,1.0
+create docker image config,dockerfile-generator,b,c1,3,3,1.0,0.43850296824495444,1.0
+create docker image config,dockerfile-generator,b,c2,3,3,1.0,0.43850296824495444,1.0
+create docker image config,dockerfile-generator,b,c3,3,3,1.0,0.43850296824495444,1.0
+create docker image config,dockerfile-generator,b,c4,3,3,1.0,0.43850296824495444,1.0
+create docker image config,dockerfile-generator,c,c1,3,3,1.0,0.43850296824495444,1.0
+create docker image config,dockerfile-generator,c,c2,3,3,1.0,0.43850296824495444,1.0
+create docker image config,dockerfile-generator,c,c3,3,3,1.0,0.43850296824495444,1.0
+create docker image config,dockerfile-generator,c,c4,3,3,1.0,0.43850296824495444,1.0
+create reactive state with $state,svelte5-runes,a,c1,3,3,1.0,0.43850296824495444,1.0
+create reactive state with $state,svelte5-runes,a,c2,3,3,1.0,0.43850296824495444,1.0
+create reactive state with $state,svelte5-runes,a,c3,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979523
+create reactive state with $state,svelte5-runes,a,c4,3,3,1.0,0.43850296824495444,1.0
+create reactive state with $state,svelte5-runes,b,c1,3,3,1.0,0.43850296824495444,1.0
+create reactive state with $state,svelte5-runes,b,c2,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979523
+create reactive state with $state,svelte5-runes,b,c3,3,3,1.0,0.43850296824495444,1.0
+create reactive state with $state,svelte5-runes,b,c4,3,3,1.0,0.43850296824495444,1.0
+create reactive state with $state,svelte5-runes,c,c1,3,3,1.0,0.43850296824495444,1.0
+create reactive state with $state,svelte5-runes,c,c2,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979523
+create reactive state with $state,svelte5-runes,c,c3,3,3,1.0,0.43850296824495444,1.0
+create reactive state with $state,svelte5-runes,c,c4,3,3,1.0,0.43850296824495444,1.0
+fix my git history,git-workflow,a,c1,3,3,1.0,0.43850296824495444,1.0
+fix my git history,git-workflow,a,c2,3,0,0.0,0.0,0.5614970317550455
+fix my git history,git-workflow,a,c3,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979523
+fix my git history,git-workflow,a,c4,3,3,1.0,0.43850296824495444,1.0
+fix my git history,git-workflow,b,c1,3,0,0.0,0.0,0.5614970317550455
+fix my git history,git-workflow,b,c2,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979523
+fix my git history,git-workflow,b,c3,3,3,1.0,0.43850296824495444,1.0
+fix my git history,git-workflow,b,c4,3,3,1.0,0.43850296824495444,1.0
+fix my git history,git-workflow,c,c1,3,3,1.0,0.43850296824495444,1.0
+fix my git history,git-workflow,c,c2,3,3,1.0,0.43850296824495444,1.0
+fix my git history,git-workflow,c,c3,3,3,1.0,0.43850296824495444,1.0
+fix my git history,git-workflow,c,c4,3,3,1.0,0.43850296824495444,1.0
+generate dockerfile for node app,dockerfile-generator,a,c1,3,3,1.0,0.43850296824495444,1.0
+generate dockerfile for node app,dockerfile-generator,a,c2,3,3,1.0,0.43850296824495444,1.0
+generate dockerfile for node app,dockerfile-generator,a,c3,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979523
+generate dockerfile for node app,dockerfile-generator,a,c4,3,3,1.0,0.43850296824495444,1.0
+generate dockerfile for node app,dockerfile-generator,b,c1,3,3,1.0,0.43850296824495444,1.0
+generate dockerfile for node app,dockerfile-generator,b,c2,3,3,1.0,0.43850296824495444,1.0
+generate dockerfile for node app,dockerfile-generator,b,c3,3,3,1.0,0.43850296824495444,1.0
+generate dockerfile for node app,dockerfile-generator,b,c4,3,3,1.0,0.43850296824495444,1.0
+generate dockerfile for node app,dockerfile-generator,c,c1,3,3,1.0,0.43850296824495444,1.0
+generate dockerfile for node app,dockerfile-generator,c,c2,3,3,1.0,0.43850296824495444,1.0
+generate dockerfile for node app,dockerfile-generator,c,c3,3,3,1.0,0.43850296824495444,1.0
+generate dockerfile for node app,dockerfile-generator,c,c4,3,3,1.0,0.43850296824495444,1.0
+help with git rebase,git-workflow,a,c1,3,3,1.0,0.43850296824495444,1.0
+help with git rebase,git-workflow,a,c2,3,3,1.0,0.43850296824495444,1.0
+help with git rebase,git-workflow,a,c3,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979523
+help with git rebase,git-workflow,a,c4,3,3,1.0,0.43850296824495444,1.0
+help with git rebase,git-workflow,b,c1,3,3,1.0,0.43850296824495444,1.0
+help with git rebase,git-workflow,b,c2,3,2,0.6666666666666666,0.2076596008020477,0.9385080552796037
+help with git rebase,git-workflow,b,c3,3,3,1.0,0.43850296824495444,1.0
+help with git rebase,git-workflow,b,c4,3,3,1.0,0.43850296824495444,1.0
+help with git rebase,git-workflow,c,c1,3,3,1.0,0.43850296824495444,1.0
+help with git rebase,git-workflow,c,c2,3,3,1.0,0.43850296824495444,1.0
+help with git rebase,git-workflow,c,c3,3,3,1.0,0.43850296824495444,1.0
+help with git rebase,git-workflow,c,c4,3,3,1.0,0.43850296824495444,1.0
+help with multi-stage docker build,dockerfile-generator,a,c1,3,2,0.6666666666666666,0.2076596008020477,0.9385080552796037
+help with multi-stage docker build,dockerfile-generator,a,c2,3,3,1.0,0.43850296824495444,1.0
+help with multi-stage docker build,dockerfile-generator,a,c3,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979523
+help with multi-stage docker build,dockerfile-generator,a,c4,3,3,1.0,0.43850296824495444,1.0
+help with multi-stage docker build,dockerfile-generator,b,c1,3,3,1.0,0.43850296824495444,1.0
+help with multi-stage docker build,dockerfile-generator,b,c2,3,3,1.0,0.43850296824495444,1.0
+help with multi-stage docker build,dockerfile-generator,b,c3,3,3,1.0,0.43850296824495444,1.0
+help with multi-stage docker build,dockerfile-generator,b,c4,3,3,1.0,0.43850296824495444,1.0
+help with multi-stage docker build,dockerfile-generator,c,c1,3,3,1.0,0.43850296824495444,1.0
+help with multi-stage docker build,dockerfile-generator,c,c2,3,3,1.0,0.43850296824495444,1.0
+help with multi-stage docker build,dockerfile-generator,c,c3,3,3,1.0,0.43850296824495444,1.0
+help with multi-stage docker build,dockerfile-generator,c,c4,3,3,1.0,0.43850296824495444,1.0
+how do I use runes in svelte,svelte5-runes,a,c1,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979523
+how do I use runes in svelte,svelte5-runes,a,c2,3,2,0.6666666666666666,0.2076596008020477,0.9385080552796037
+how do I use runes in svelte,svelte5-runes,a,c3,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979523
+how do I use runes in svelte,svelte5-runes,a,c4,3,3,1.0,0.43850296824495444,1.0
+how do I use runes in svelte,svelte5-runes,b,c1,3,2,0.6666666666666666,0.2076596008020477,0.9385080552796037
+how do I use runes in svelte,svelte5-runes,b,c2,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979523
+how do I use runes in svelte,svelte5-runes,b,c3,3,3,1.0,0.43850296824495444,1.0
+how do I use runes in svelte,svelte5-runes,b,c4,3,3,1.0,0.43850296824495444,1.0
+how do I use runes in svelte,svelte5-runes,c,c1,3,3,1.0,0.43850296824495444,1.0
+how do I use runes in svelte,svelte5-runes,c,c2,3,3,1.0,0.43850296824495444,1.0
+how do I use runes in svelte,svelte5-runes,c,c3,3,3,1.0,0.43850296824495444,1.0
+how do I use runes in svelte,svelte5-runes,c,c4,3,3,1.0,0.43850296824495444,1.0
+resolve git merge conflict,git-workflow,a,c1,3,3,1.0,0.43850296824495444,1.0
+resolve git merge conflict,git-workflow,a,c2,3,3,1.0,0.43850296824495444,1.0
+resolve git merge conflict,git-workflow,a,c3,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979523
+resolve git merge conflict,git-workflow,a,c4,3,3,1.0,0.43850296824495444,1.0
+resolve git merge conflict,git-workflow,b,c1,3,2,0.6666666666666666,0.2076596008020477,0.9385080552796037
+resolve git merge conflict,git-workflow,b,c2,3,3,1.0,0.43850296824495444,1.0
+resolve git merge conflict,git-workflow,b,c3,3,3,1.0,0.43850296824495444,1.0
+resolve git merge conflict,git-workflow,b,c4,3,3,1.0,0.43850296824495444,1.0
+resolve git merge conflict,git-workflow,c,c1,3,3,1.0,0.43850296824495444,1.0
+resolve git merge conflict,git-workflow,c,c2,3,3,1.0,0.43850296824495444,1.0
+resolve git merge conflict,git-workflow,c,c3,3,3,1.0,0.43850296824495444,1.0
+resolve git merge conflict,git-workflow,c,c4,3,3,1.0,0.43850296824495444,1.0
+setup dockerfile for python flask,dockerfile-generator,a,c1,3,3,1.0,0.43850296824495444,1.0
+setup dockerfile for python flask,dockerfile-generator,a,c2,3,3,1.0,0.43850296824495444,1.0
+setup dockerfile for python flask,dockerfile-generator,a,c3,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979523
+setup dockerfile for python flask,dockerfile-generator,a,c4,3,3,1.0,0.43850296824495444,1.0
+setup dockerfile for python flask,dockerfile-generator,b,c1,3,3,1.0,0.43850296824495444,1.0
+setup dockerfile for python flask,dockerfile-generator,b,c2,3,3,1.0,0.43850296824495444,1.0
+setup dockerfile for python flask,dockerfile-generator,b,c3,3,3,1.0,0.43850296824495444,1.0
+setup dockerfile for python flask,dockerfile-generator,b,c4,3,3,1.0,0.43850296824495444,1.0
+setup dockerfile for python flask,dockerfile-generator,c,c1,3,3,1.0,0.43850296824495444,1.0
+setup dockerfile for python flask,dockerfile-generator,c,c2,3,3,1.0,0.43850296824495444,1.0
+setup dockerfile for python flask,dockerfile-generator,c,c3,3,3,1.0,0.43850296824495444,1.0
+setup dockerfile for python flask,dockerfile-generator,c,c4,3,3,1.0,0.43850296824495444,1.0
+squash commits before PR,git-workflow,a,c1,3,3,1.0,0.43850296824495444,1.0
+squash commits before PR,git-workflow,a,c2,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979523
+squash commits before PR,git-workflow,a,c3,3,2,0.6666666666666666,0.2076596008020477,0.9385080552796037
+squash commits before PR,git-workflow,a,c4,3,3,1.0,0.43850296824495444,1.0
+squash commits before PR,git-workflow,b,c1,3,3,1.0,0.43850296824495444,1.0
+squash commits before PR,git-workflow,b,c2,3,3,1.0,0.43850296824495444,1.0
+squash commits before PR,git-workflow,b,c3,3,3,1.0,0.43850296824495444,1.0
+squash commits before PR,git-workflow,b,c4,3,3,1.0,0.43850296824495444,1.0
+squash commits before PR,git-workflow,c,c1,3,3,1.0,0.43850296824495444,1.0
+squash commits before PR,git-workflow,c,c2,3,3,1.0,0.43850296824495444,1.0
+squash commits before PR,git-workflow,c,c3,3,3,1.0,0.43850296824495444,1.0
+squash commits before PR,git-workflow,c,c4,3,3,1.0,0.43850296824495444,1.0
+svelte 5 component with $props,svelte5-runes,a,c1,4,4,1.0,0.5101091635454025,1.0
+svelte 5 component with $props,svelte5-runes,a,c2,3,2,0.6666666666666666,0.2076596008020477,0.9385080552796037
+svelte 5 component with $props,svelte5-runes,a,c3,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979523
+svelte 5 component with $props,svelte5-runes,a,c4,3,3,1.0,0.43850296824495444,1.0
+svelte 5 component with $props,svelte5-runes,b,c1,3,3,1.0,0.43850296824495444,1.0
+svelte 5 component with $props,svelte5-runes,b,c2,3,3,1.0,0.43850296824495444,1.0
+svelte 5 component with $props,svelte5-runes,b,c3,3,3,1.0,0.43850296824495444,1.0
+svelte 5 component with $props,svelte5-runes,b,c4,3,3,1.0,0.43850296824495444,1.0
+svelte 5 component with $props,svelte5-runes,c,c1,3,3,1.0,0.43850296824495444,1.0
+svelte 5 component with $props,svelte5-runes,c,c2,3,3,1.0,0.43850296824495444,1.0
+svelte 5 component with $props,svelte5-runes,c,c3,3,3,1.0,0.43850296824495444,1.0
+svelte 5 component with $props,svelte5-runes,c,c4,3,3,1.0,0.43850296824495444,1.0
+undo last git commit,git-workflow,a,c1,3,0,0.0,0.0,0.5614970317550455
+undo last git commit,git-workflow,a,c2,3,0,0.0,0.0,0.5614970317550455
+undo last git commit,git-workflow,a,c3,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979523
+undo last git commit,git-workflow,a,c4,3,3,1.0,0.43850296824495444,1.0
+undo last git commit,git-workflow,b,c1,3,0,0.0,0.0,0.5614970317550455
+undo last git commit,git-workflow,b,c2,3,0,0.0,0.0,0.5614970317550455
+undo last git commit,git-workflow,b,c3,3,3,1.0,0.43850296824495444,1.0
+undo last git commit,git-workflow,b,c4,3,3,1.0,0.43850296824495444,1.0
+undo last git commit,git-workflow,c,c1,3,3,1.0,0.43850296824495444,1.0
+undo last git commit,git-workflow,c,c2,3,2,0.6666666666666666,0.2076596008020477,0.9385080552796037
+undo last git commit,git-workflow,c,c3,3,3,1.0,0.43850296824495444,1.0
+undo last git commit,git-workflow,c,c4,3,3,1.0,0.43850296824495444,1.0
+use $derived and $effect,svelte5-runes,a,c1,3,3,1.0,0.43850296824495444,1.0
+use $derived and $effect,svelte5-runes,a,c2,3,3,1.0,0.43850296824495444,1.0
+use $derived and $effect,svelte5-runes,a,c3,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979523
+use $derived and $effect,svelte5-runes,a,c4,3,3,1.0,0.43850296824495444,1.0
+use $derived and $effect,svelte5-runes,b,c1,3,3,1.0,0.43850296824495444,1.0
+use $derived and $effect,svelte5-runes,b,c2,3,3,1.0,0.43850296824495444,1.0
+use $derived and $effect,svelte5-runes,b,c3,3,3,1.0,0.43850296824495444,1.0
+use $derived and $effect,svelte5-runes,b,c4,3,3,1.0,0.43850296824495444,1.0
+use $derived and $effect,svelte5-runes,c,c1,3,3,1.0,0.43850296824495444,1.0
+use $derived and $effect,svelte5-runes,c,c2,3,3,1.0,0.43850296824495444,1.0
+use $derived and $effect,svelte5-runes,c,c3,3,3,1.0,0.43850296824495444,1.0
+use $derived and $effect,svelte5-runes,c,c4,3,3,1.0,0.43850296824495444,1.0
+use svelte5 runes,svelte5-runes,a,c1,3,3,1.0,0.43850296824495444,1.0
+use svelte5 runes,svelte5-runes,a,c2,3,3,1.0,0.43850296824495444,1.0
+use svelte5 runes,svelte5-runes,a,c3,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979523
+use svelte5 runes,svelte5-runes,a,c4,3,3,1.0,0.43850296824495444,1.0
+use svelte5 runes,svelte5-runes,b,c1,3,3,1.0,0.43850296824495444,1.0
+use svelte5 runes,svelte5-runes,b,c2,3,3,1.0,0.43850296824495444,1.0
+use svelte5 runes,svelte5-runes,b,c3,3,3,1.0,0.43850296824495444,1.0
+use svelte5 runes,svelte5-runes,b,c4,3,3,1.0,0.43850296824495444,1.0
+use svelte5 runes,svelte5-runes,c,c1,3,3,1.0,0.43850296824495444,1.0
+use svelte5 runes,svelte5-runes,c,c2,3,3,1.0,0.43850296824495444,1.0
+use svelte5 runes,svelte5-runes,c,c3,3,3,1.0,0.43850296824495444,1.0
+use svelte5 runes,svelte5-runes,c,c4,3,3,1.0,0.43850296824495444,1.0
+write a dockerfile,dockerfile-generator,a,c1,3,3,1.0,0.43850296824495444,1.0
+write a dockerfile,dockerfile-generator,a,c2,3,3,1.0,0.43850296824495444,1.0
+write a dockerfile,dockerfile-generator,a,c3,3,1,0.3333333333333333,0.06149194472039626,0.7923403991979523
+write a dockerfile,dockerfile-generator,a,c4,3,3,1.0,0.43850296824495444,1.0
+write a dockerfile,dockerfile-generator,b,c1,3,3,1.0,0.43850296824495444,1.0
+write a dockerfile,dockerfile-generator,b,c2,3,3,1.0,0.43850296824495444,1.0
+write a dockerfile,dockerfile-generator,b,c3,3,3,1.0,0.43850296824495444,1.0
+write a dockerfile,dockerfile-generator,b,c4,3,3,1.0,0.43850296824495444,1.0
+write a dockerfile,dockerfile-generator,c,c1,3,3,1.0,0.43850296824495444,1.0
+write a dockerfile,dockerfile-generator,c,c2,3,3,1.0,0.43850296824495444,1.0
+write a dockerfile,dockerfile-generator,c,c3,3,3,1.0,0.43850296824495444,1.0
+write a dockerfile,dockerfile-generator,c,c4,3,3,1.0,0.43850296824495444,1.0

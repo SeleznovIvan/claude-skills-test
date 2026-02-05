@@ -1,0 +1,4552 @@
+[
+  {
+    "condition": "a-c1",
+    "session_id": "7ed37adb-d7c3-409c-aed7-5bc3c73355fa",
+    "rep": 0,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "2326a850-902a-4bf0-bba0-876ae7fa2323",
+    "rep": 0,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "a1c11181-51c5-4c2d-ab3c-597e0aba9403",
+    "rep": 0,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "d62d2f84-2690-486f-934f-a168ce4e6922",
+    "rep": 0,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "77b1e153-694b-4f45-a8bd-8fb4bf2d1aae",
+    "rep": 0,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "95d630ac-3f2c-466f-84a1-85814cfcf2ff",
+    "rep": 0,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "793f08a0-1aef-4c87-adcb-80f9c43e9f14",
+    "rep": 0,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "78ba90a5-294b-4a0c-8bab-c69e748c6c6d",
+    "rep": 0,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "6cdbb199-242b-496b-b5fe-d76b71f50397",
+    "rep": 0,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "f6b14b3c-aa3c-4c61-8fa1-4a3494a6af11",
+    "rep": 0,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "ff0d3e00-a9c6-46a0-bcf5-cf9d236c7574",
+    "rep": 0,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "a9db1f02-8fa7-4263-8b79-74d265a8cc58",
+    "rep": 0,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "cc3fb257-bfb4-4f68-9560-06f8c7d3d0d4",
+    "rep": 0,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "5512ebd7-95f0-45fc-bc0f-ec7e0d98c7ff",
+    "rep": 0,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "4da0d3bc-0288-44de-963c-523dcf3d533f",
+    "rep": 1,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "1a7682cb-8a0a-4100-8fec-ecb5f1800c7b",
+    "rep": 1,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "304408c5-97bf-4a9d-aa57-33642afdbb46",
+    "rep": 1,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "9a200bcb-160b-444c-b056-3ec60b81090f",
+    "rep": 1,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "a1996a7d-212e-4b11-9260-9305f5484f56",
+    "rep": 1,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "62d1984c-895e-4511-b149-9a22c9b647b0",
+    "rep": 1,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "7d478b86-8e84-42b6-9945-4d391d235a39",
+    "rep": 1,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "6b7b4d06-e0cd-47bb-96be-2fb2692b9e79",
+    "rep": 1,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "ee8b7ace-459f-4ca6-bc95-766697dd3e62",
+    "rep": 1,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "f901a6e9-8df5-4f49-8e97-dc1cf9fba58f",
+    "rep": 1,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "13bf8870-bab0-4545-aa61-7193fb352cda",
+    "rep": 1,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "9325284e-45b4-4a1d-9499-7aba2554f462",
+    "rep": 1,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "e778638d-78ba-44db-9d3c-88b1c68ea346",
+    "rep": 2,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "cf89b019-62fb-4ac9-94a6-a0394892d893",
+    "rep": 2,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "3de8c0f9-8dcc-408e-a314-febea3155e4c",
+    "rep": 2,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "52fc9df9-68aa-4c0a-bbf1-4abcd95bb931",
+    "rep": 2,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "bf110bc5-f602-435f-b3d1-70a83d776395",
+    "rep": 2,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "b11211c9-43da-412b-b101-add8ef8ae782",
+    "rep": 2,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "c0deff7b-9c78-4748-9ca4-05be6b72e1ef",
+    "rep": 2,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "d42413e3-bf6a-4578-8ebe-790ff772eaa8",
+    "rep": 2,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "2194858d-c62e-4137-86bb-6e2bc86a8f6e",
+    "rep": 2,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "d7a3dca5-068c-4cde-87cc-f2fdd10ff2ed",
+    "rep": 2,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "063cb387-7145-4e0d-ae86-2330b1852381",
+    "rep": 2,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "ff9f4d36-3cf4-4efd-854d-d3b444bd5a0e",
+    "rep": 2,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "ecb813c6-c84d-4a0b-959d-00e50878ee1d",
+    "rep": 2,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "d5cc822c-787b-42c8-be33-062a83a07727",
+    "rep": 2,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "b15060e9-d331-4f97-b179-c5572121f328",
+    "rep": 2,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "c5ad0f50-ccd7-49ba-8c95-04ba68b727c5",
+    "rep": 0,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "7418954c-9dc1-4745-8395-749a4eb82994",
+    "rep": 0,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "dec7a5cc-a7be-44df-8c4a-2fe30e8d9837",
+    "rep": 0,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "a4051f6a-dfe3-4301-8d90-d204f4ec9c14",
+    "rep": 0,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "2a3cdb1b-fdb6-4d82-aaff-4c38286bce69",
+    "rep": 0,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "469f630f-081b-4b08-8cc1-c5ee7e6e3edd",
+    "rep": 0,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "51cda7fc-d9e5-426a-bd96-9d49da47784e",
+    "rep": 1,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "0508ebc8-92fe-4239-a345-ff3619606745",
+    "rep": 1,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "d564cd77-e7d7-4294-9363-126d0d68a051",
+    "rep": 1,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "843b79fd-4aa0-4ca1-bdcc-c6e4c44164ea",
+    "rep": 1,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "237ce33a-109c-4a80-9237-e0264bd836f4",
+    "rep": 1,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "2f25d659-3353-4b32-88c1-4f5853e48a6e",
+    "rep": 1,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "294bac50-ee01-4d7b-a811-bd1258e09bf2",
+    "rep": 2,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "eff22f20-3e5b-45c1-a4e7-547c51a33891",
+    "rep": 2,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c1",
+    "session_id": "0c307519-483b-471c-bdc1-330f861cbfda",
+    "rep": 2,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "50ed816e-20b1-46c2-ac6b-14afe35ae71d",
+    "rep": 0,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "bcfa3fbf-f9c5-4989-9f01-005ce98f6bd5",
+    "rep": 0,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "34efd13c-9dc6-4e62-9afb-67419ed5a825",
+    "rep": 0,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "8135f059-639b-4cb7-9c02-3cf3ccbb1930",
+    "rep": 0,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "dc86c23c-650b-4c41-8443-9f911a0d5090",
+    "rep": 0,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "f9040dd5-48d2-44ac-b42a-f3b24aef2e38",
+    "rep": 0,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "1dff12c1-111a-4130-91c9-497d7b65df99",
+    "rep": 0,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "e0c2133d-ed31-4038-a376-66f0cf3df15e",
+    "rep": 0,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "f8735992-715e-45fe-a03b-4932f34569a6",
+    "rep": 0,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "d81d2e35-cc81-4354-9998-d08a12619d5b",
+    "rep": 0,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "47baa4e2-64ab-4587-ba11-77c618233820",
+    "rep": 0,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "bdf6bcc1-3da8-4c9b-b234-cde80a7ca811",
+    "rep": 0,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "980f0498-43d3-4849-b3e7-fb38812662ec",
+    "rep": 0,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "2194413b-362c-4cf1-8245-08976d2a51de",
+    "rep": 0,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "7db7d5c2-3302-4928-b229-360a07a0e9c1",
+    "rep": 0,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "52f6af71-71e5-4fc5-9dfc-22ade1a63b32",
+    "rep": 0,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "494d1886-c140-4598-b476-07ac90ea1e60",
+    "rep": 0,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "81592234-e11f-4461-8244-9de5c2221e62",
+    "rep": 0,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "84e67375-0de2-46ee-bd14-3c0ab5cbd766",
+    "rep": 1,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "e54b10cb-27a3-4085-9428-4041678e1672",
+    "rep": 1,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "ef95666f-108c-4049-afd9-e86c7e153c4b",
+    "rep": 1,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "01c6e4cf-7878-4856-b99c-87d2931b6700",
+    "rep": 1,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "d023aaa8-d61d-4b83-b91f-b092d90e7146",
+    "rep": 1,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "434948db-ba83-4388-9d05-821683978110",
+    "rep": 1,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "a96af10a-9177-426e-b437-ff013a50ace1",
+    "rep": 1,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "407ee7c3-48a7-4fb2-b5a8-f159ed166ea4",
+    "rep": 1,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "1bd61fed-30ef-4cb9-ba3a-2756a4c230e7",
+    "rep": 1,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "b944c735-5221-4a15-ba06-e07f4b0bf015",
+    "rep": 1,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "e8bd2a1f-8e65-495a-88d4-cb3a8a557af7",
+    "rep": 1,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "48401b7c-d28c-48b1-876a-c21fa33680f9",
+    "rep": 1,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "2ad655fe-3957-4aca-8b32-9453e9049a54",
+    "rep": 1,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "0d0e2e5b-3620-4e72-9dda-97fad0921557",
+    "rep": 1,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "19f79a9e-f0e3-443d-bcac-e81ae777fbd7",
+    "rep": 1,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "7f375c24-2cc9-472d-b209-6c8bfd414bd7",
+    "rep": 1,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "83da8c99-cd13-4e9e-8ffc-699424a148f7",
+    "rep": 1,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "28542aac-1157-40bb-9e09-3c900047b079",
+    "rep": 1,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "9a716064-09e8-4bb1-9be2-376eb6f45d09",
+    "rep": 2,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "57c80119-6202-4588-9105-bdbb34ee56ba",
+    "rep": 2,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "aa3bc20d-7415-42ad-92b5-055f9912fef5",
+    "rep": 2,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "aba8d82b-a5d5-4dfe-abac-14743fde52d1",
+    "rep": 2,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "544468ad-efcc-4caf-801f-1cf2ce11c294",
+    "rep": 2,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "13c87e93-96f4-4c56-be58-45fd0c57c57f",
+    "rep": 2,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "9ca1183b-e099-48fd-b9de-07920f136302",
+    "rep": 2,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "d8e118b3-fd76-498b-a73f-589b2ede35c2",
+    "rep": 2,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "069d0241-9ebd-4fd0-9ca8-3e7f5bb9b282",
+    "rep": 2,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "6ff01d95-8c8f-4b33-9976-940a184dd26a",
+    "rep": 2,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "b94e96bb-6dba-4447-ac2b-e43b31f8e0a4",
+    "rep": 2,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "d281e0d7-03d5-42d8-9753-81c3c600e241",
+    "rep": 2,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "f1859df8-4d49-4280-9e27-0550966b891d",
+    "rep": 2,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "76ee51da-4495-49f4-b55a-e0d257dbfb79",
+    "rep": 2,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "1d2e2eaa-80d8-4e10-84ad-a76b47df09ce",
+    "rep": 2,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "98f01acc-6e03-47c5-a20b-9f5ff7709185",
+    "rep": 2,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "c10b90ce-92b8-4546-8fa0-ad5ce1b84d44",
+    "rep": 2,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c2",
+    "session_id": "8c2b8d8c-0aa1-48c3-b273-6738a00170f6",
+    "rep": 2,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "69e7de54-745e-4a26-90b6-e18e0d9abfb7",
+    "rep": 0,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "632759ab-cebd-4cbe-a8d2-d9032533fc6c",
+    "rep": 0,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "c0bd9b6b-05fa-47dc-ac4a-a1e5947326b7",
+    "rep": 0,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "6cd36d8d-bcc5-4262-b603-1b27c4220989",
+    "rep": 0,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "56e291a6-d3a4-4996-9507-7a0bb3801c4f",
+    "rep": 0,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "c97acbf6-d421-4de2-a0f0-e2109cb52051",
+    "rep": 0,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "a9b6e7d7-6575-4702-9004-ca34ab4aff3f",
+    "rep": 0,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "87c3d916-cd8d-4f29-b52a-c117d870306f",
+    "rep": 0,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "c8ff7d93-ca8f-46d5-a946-9e958c491209",
+    "rep": 0,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "c2cafe3d-2f92-4bef-b5e6-b3d4409152b3",
+    "rep": 0,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "335c0fe0-cac9-45d9-a95b-f9d842bcf57c",
+    "rep": 0,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "4096b2c8-ed6e-4e7a-925d-659f0d748c5f",
+    "rep": 0,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "21b17207-cbf7-4f1b-8f59-2ec024ed8f64",
+    "rep": 0,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "91ed8800-7d5d-4908-84c9-4007cc545b37",
+    "rep": 0,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "337348ae-4580-4f3a-9d23-d4fc5fa3ef7f",
+    "rep": 0,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "4303b890-10c5-4f24-a2dd-bb18a5e2eb40",
+    "rep": 0,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "2a13ba69-5bb3-4745-a55c-e32df0cd5306",
+    "rep": 0,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "9b4425f9-b81e-444b-902b-e7eec0656dac",
+    "rep": 0,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "c5feda80-de98-4f46-baed-c773a6cc730b",
+    "rep": 1,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "55e546d0-ab2f-4621-9264-dc894eb68316",
+    "rep": 1,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "e1f01731-dfd6-4f2f-ae25-c493eb3c4509",
+    "rep": 1,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "8f85ab29-869c-4d35-b357-d2a3b2a9e935",
+    "rep": 1,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "b751d9e1-1412-44ae-b41b-db42fdbccab5",
+    "rep": 1,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "e8d601ba-c929-4666-92d4-985b29061939",
+    "rep": 1,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "6bd830ec-7b37-4fff-9eec-72ceded7bd0b",
+    "rep": 1,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "b4e45d77-863a-428a-a390-f0bb12169683",
+    "rep": 1,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "185c46cc-b7ac-47c2-8f20-d2cf603ab214",
+    "rep": 1,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "66cea2a2-1054-438a-af79-70ec4790f220",
+    "rep": 1,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "60f63eef-9acf-464e-a8d5-a01fd8b5bcdf",
+    "rep": 1,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "a1594b6a-e44a-47a7-8552-fe4aa9e3614e",
+    "rep": 1,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "a9ca4c49-e18d-4fd0-85d5-51183a36c5b3",
+    "rep": 1,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "2a209c7c-84e2-4727-8ef8-fe0b2c0cb096",
+    "rep": 1,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "98c9bc5c-6553-48ec-bcbf-f4677a3087eb",
+    "rep": 1,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "a5502b93-addf-4e04-a8da-0e00fb129d18",
+    "rep": 1,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "e426e946-1705-4380-830b-2c8fdc561000",
+    "rep": 1,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "40bb787c-46f3-418f-b2bd-ceb213dc07f0",
+    "rep": 2,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "a98b9975-6636-4dd1-95b7-5afeb8bbe384",
+    "rep": 1,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "742824f3-d0bb-40a8-b69b-99b8250fb1d2",
+    "rep": 2,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "f2f472d3-b0f6-41dd-8460-b08094705ceb",
+    "rep": 2,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "cda81ce8-0be2-424c-9ada-58b94b794fe0",
+    "rep": 2,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "a0344639-dc5e-4e85-a236-d38f6e9019bf",
+    "rep": 2,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "16349e26-2c69-49b1-9542-46c39d7619c7",
+    "rep": 2,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "411c290f-b404-4414-84c8-9eb7a24865b4",
+    "rep": 2,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "325ef062-3700-49cd-b531-65ab4b5bda58",
+    "rep": 2,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "250fa17a-ed8a-4914-a356-23bdaefaed87",
+    "rep": 2,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "7223ecdf-c8d4-4f81-b404-37f1437a0a8a",
+    "rep": 2,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "f6a4ff45-050d-48fa-a649-375d2d465c35",
+    "rep": 2,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "17b7afd5-24b2-487e-89bd-e7d1a0390cff",
+    "rep": 2,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "4427fdec-d273-4b2a-b081-57dc453d2edb",
+    "rep": 2,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "fb1a2b99-b7d9-4e85-a635-1779727601bf",
+    "rep": 2,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "7b14bd4c-c387-4bef-9402-c9cae9c061db",
+    "rep": 2,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "ac760f52-2061-438f-bcb8-46a6f14d2c38",
+    "rep": 2,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "9d3283d2-6e65-4c05-a030-39ab22141681",
+    "rep": 2,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c3",
+    "session_id": "b5df5345-3143-4aaf-ac9a-9a5a8dfd2fe5",
+    "rep": 2,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "3f592810-d7f2-4ad0-b466-5844bb425cb8",
+    "rep": 0,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "3fc5ab75-9d72-4630-b63d-15dea0545e89",
+    "rep": 0,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "e5ad75f4-d69a-4fff-ba0c-4caf38057733",
+    "rep": 0,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "84784e76-1e6c-4bf4-b289-08c2c87cc105",
+    "rep": 0,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "47f8c47f-8d87-4ed5-aaf8-bb533165ee67",
+    "rep": 0,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "e4113b8b-0dc4-492c-bfbc-6baded946e3e",
+    "rep": 0,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "a6b723c5-b39c-4419-8739-cf774eeefc6c",
+    "rep": 0,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "73d61e29-4f21-41f3-b5fd-60f18a340f89",
+    "rep": 0,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "1567794a-949c-4f58-9d2f-c385ec1b87ce",
+    "rep": 0,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "fbcad019-34f0-4fe4-8201-40fe7b35b2c0",
+    "rep": 0,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "d7de50ee-e0d3-4147-abd7-8e92fe9dc57a",
+    "rep": 0,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "2cbc51d7-5833-4a27-a487-d0cb5b71b9c4",
+    "rep": 0,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "58d7c915-f648-4267-9fa1-4af74e320660",
+    "rep": 0,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "f9ba32da-5ccb-4d1c-8904-12af049fbd71",
+    "rep": 0,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "7a2de4cd-db03-4087-833d-185cb279b6d5",
+    "rep": 0,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "e81be88c-4ae7-4b4d-8c6e-a6f969308304",
+    "rep": 0,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "1a5cd5c3-80c0-41d3-b58b-c23d2ec59aee",
+    "rep": 0,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "525180c0-3591-4e48-90c0-8eb33444af02",
+    "rep": 0,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "fd58c54d-b92e-4cc4-9172-56ecf3ffa3b1",
+    "rep": 1,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "d7840c9b-48dd-472a-9397-4431dae92c3d",
+    "rep": 1,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "787b6201-500f-4572-b531-d85f10306640",
+    "rep": 1,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "8596f318-f4ea-4619-83d2-c0a2e243fc80",
+    "rep": 1,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "be8d08f6-b336-4091-862b-a18f50972041",
+    "rep": 1,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "d5d84b1e-3fae-4f2d-9839-c45c1dedbfcb",
+    "rep": 1,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "7b739636-502b-4d80-825c-5165d76c9070",
+    "rep": 1,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "1d787591-090f-4642-a291-331cfd920cb0",
+    "rep": 1,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "48ffeaeb-104c-4139-97b2-9ed16352420e",
+    "rep": 1,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "fda66a2f-8d16-454a-b265-5dfc1b286209",
+    "rep": 1,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "ce0da598-42fe-418c-a4df-7947415c02f5",
+    "rep": 1,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "0cbae49d-71f2-4c88-8d41-4359b361cd07",
+    "rep": 1,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "3bedc30f-6137-48e8-bab8-d81b28df169e",
+    "rep": 1,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "f0e92fd5-aee9-48db-85ec-8b0a87ee7c46",
+    "rep": 1,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "f8932dea-c3cb-4063-81e0-0c4aebf2bfd2",
+    "rep": 1,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "083bcac0-8db2-4f96-8c94-911e5a6c4e9e",
+    "rep": 1,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "692be8d2-0ab5-40d6-aafc-128c7577e3d0",
+    "rep": 1,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "59511c2f-5853-479f-9c14-fee0fdfbb797",
+    "rep": 1,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "9c7867a8-cb6d-439d-ad35-e740d4b858ee",
+    "rep": 2,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "c73f9ef4-0ad6-4257-89f0-ed603fda62b5",
+    "rep": 2,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "d6d7d69f-7b2d-436a-bd91-ea15226c3eba",
+    "rep": 2,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "8e30bbbe-14c1-48d6-b695-8ff606027517",
+    "rep": 2,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "2971a7aa-c216-4a67-9c16-6958a7e8de64",
+    "rep": 2,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "6c95a707-8470-42db-ba3d-f735acf0ad68",
+    "rep": 2,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "b6b4c481-fbe7-4258-ae93-02ad47668cff",
+    "rep": 2,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "24cc4f00-4b56-48dc-a92a-bc3b4450bbe3",
+    "rep": 2,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "a4b17965-ff6b-4eb0-ad4b-95a558b5c41b",
+    "rep": 2,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "5924bd48-a3a1-4d1b-b9f1-f222cfcd1a24",
+    "rep": 2,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "504d1ca2-7250-4437-89e9-9b174df44ddd",
+    "rep": 2,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "60e57c5d-a106-4dd3-9b87-e7b903a80ab4",
+    "rep": 2,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "e40dbeea-3d4b-4a31-8833-66f505dfaa7c",
+    "rep": 2,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "4eeeb607-5f9a-4173-b7cf-cc71beb83091",
+    "rep": 2,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "b27b31a7-bd1d-4329-8041-66b33a939aa1",
+    "rep": 2,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "54dba5a4-472b-4a02-a4b4-796dc058803e",
+    "rep": 2,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "d4b6375e-1150-4e52-9295-46b9edf35490",
+    "rep": 2,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "a-c4",
+    "session_id": "1b666bcc-d4ca-41b3-91bb-13740d4b78ee",
+    "rep": 2,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "71afadf4-89e6-4216-b844-f1aa9a4f7bdf",
+    "rep": 0,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "93dfc03a-2aaa-4868-82ee-8372a9194b06",
+    "rep": 0,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "6361dda2-8d35-46a1-aa4d-ef0f17338f31",
+    "rep": 0,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "239dfa7e-3caf-44c3-9965-46e80a248440",
+    "rep": 0,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "29c6cfee-78ac-4455-85fd-44e6ff6f8d4a",
+    "rep": 0,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "750cabbb-5113-4357-9aef-e3968dc84b40",
+    "rep": 0,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "61300a88-6065-469f-b888-2eb811a962f6",
+    "rep": 0,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "e82373d5-30e8-4a71-bd5e-a3f7820374e9",
+    "rep": 0,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "ff617fe9-a3cd-403b-b283-5f280d19fd3f",
+    "rep": 0,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "830fea8e-c587-4131-a81b-a09686c98118",
+    "rep": 0,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "e023c0d0-b08a-44ab-b8f2-24664d54d821",
+    "rep": 0,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "857483a9-f3d5-4b53-88a6-46a538973b71",
+    "rep": 0,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "3c10c884-667c-417f-ab08-8a3dcc768eb2",
+    "rep": 0,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "8057e17b-27c5-4ac8-b1a6-112ad9899169",
+    "rep": 0,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "43f83c00-6ab2-4535-a32b-51df025a0e74",
+    "rep": 0,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "d193d7a2-18f1-4c8d-b51d-341a6a392791",
+    "rep": 0,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "6f3509b1-88ff-4045-85df-173d982654d1",
+    "rep": 0,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "9f8cb71d-c629-4ce7-b261-b31237ee5a60",
+    "rep": 0,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "aa295ac7-5ab2-45e9-9625-be9f097a59da",
+    "rep": 1,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "48cb7147-eccd-467d-96bd-aa83ca67856e",
+    "rep": 1,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "d795fa2a-389a-4d4a-9fb1-eb2ce5eff50f",
+    "rep": 1,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "77573163-7d69-4132-952a-5a9233df201b",
+    "rep": 1,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "97fd14e6-12c4-4093-ae10-9315b3b13727",
+    "rep": 1,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "f9643bd0-70c6-4ffb-bb17-9c8afafcc735",
+    "rep": 1,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "cf2fb80e-82d8-4f06-8fa2-cb70ac978f7e",
+    "rep": 1,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "2eb78cdc-59a9-4fb7-a6b8-f271936c7627",
+    "rep": 1,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "0aef2c53-6739-4206-a5d2-dd4b472a309a",
+    "rep": 1,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "6649e088-e6d3-4cd2-aa8d-18d847e4843d",
+    "rep": 1,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "2760d237-c01a-47d8-8bfe-6d252298ef76",
+    "rep": 1,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "1cd65b94-2cbb-497e-b26f-f1c170733655",
+    "rep": 1,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "22a3555e-7c9f-49dc-a681-647aa25d18de",
+    "rep": 1,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "b35246fb-e1e8-4016-9b41-9a01fe3bfaa1",
+    "rep": 1,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "bf5dbe14-ee74-457d-979d-2ba11d0df134",
+    "rep": 1,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "1c77d37e-b421-42bc-8eb0-9e75000eaf7d",
+    "rep": 1,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "4c095edb-a020-4061-b995-bf103d193a7e",
+    "rep": 1,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "38cc256f-ea40-4c6a-a80e-2b690a978d28",
+    "rep": 1,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "4045ec49-b0bc-4d87-bb9b-bd762d973451",
+    "rep": 2,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "ef85c616-c437-4b5e-bf81-08310f5726d7",
+    "rep": 2,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "0a29c15b-59cb-4c9a-804d-465f3de4628d",
+    "rep": 2,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "ce07b4ce-39c4-4c89-8108-3a50ff22a082",
+    "rep": 2,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "c10dc9dc-d9f9-47c1-b3d4-26e4ce2596fd",
+    "rep": 2,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "3deade23-70f5-4e12-9b42-0c27b4f00c3a",
+    "rep": 2,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "f2b53126-0ef0-44a3-9b70-618c4a384233",
+    "rep": 2,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "8f1d9e76-a448-47be-9d02-70d484d5e61c",
+    "rep": 2,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "8e2795c6-a6b8-42d2-b430-d6c30c0dc301",
+    "rep": 2,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "b4226cf1-ea0c-433b-a9db-8632cfb59ab9",
+    "rep": 2,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "4c26ec12-6019-4926-802f-d2e7ea3b9d1f",
+    "rep": 2,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "10b81c25-635e-42a9-bb31-ec5d24c95b94",
+    "rep": 2,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "889f9165-ff2d-422d-b409-859a6929ca93",
+    "rep": 2,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "9f1916ff-a592-41b1-92aa-33d94dfa4cc9",
+    "rep": 2,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "d195f5b7-3be6-4f20-b19c-d167749853e2",
+    "rep": 2,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "2ae02b44-3048-47ed-b241-df3e10ebfb17",
+    "rep": 2,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "fb33c5d9-ecc5-47da-8d71-9bb60d800661",
+    "rep": 2,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c1",
+    "session_id": "581b1bb9-b0b1-4eec-92a7-f56b6a15cf18",
+    "rep": 2,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "c57e3ff1-62aa-419f-bdd0-b4154c0dee5f",
+    "rep": 0,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "153ef7f1-822b-460d-98bb-30494be5716c",
+    "rep": 0,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "f8f82936-f7c5-428d-9e55-c9b5987207cf",
+    "rep": 0,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "83361dbf-5d0a-4947-93bb-04751acf3524",
+    "rep": 0,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "b91f524e-9ccf-4211-9b25-851e3bb937dc",
+    "rep": 0,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "9f9c61e3-be6d-4dc3-922a-0c04939992c2",
+    "rep": 0,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "c81dd956-f5f9-4243-a469-c210e57eabc0",
+    "rep": 0,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "78899ba5-7599-4c1d-844c-c2abd4c15774",
+    "rep": 0,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "0f53c931-e103-4ace-89eb-ca38823e237b",
+    "rep": 0,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "1b5f4a08-3294-4da4-bde6-44c55d171fd8",
+    "rep": 0,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "0db9ff6e-7270-41f7-9249-7839bd2df1c1",
+    "rep": 0,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "7eae285b-ce4c-4a4e-80b7-86c8ffeac6a0",
+    "rep": 0,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "414c20fb-57af-4c85-bbab-419adf379cc0",
+    "rep": 0,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "bf0bd25f-03c5-4756-a594-d48e7d012401",
+    "rep": 0,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "bf34c6f1-0125-4f97-91a6-bf01731f698b",
+    "rep": 0,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "a1810b81-9caf-4d48-914d-d3f166c84ff6",
+    "rep": 0,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "a3ff16f1-e274-4f7d-9cb4-95e84e5cbec5",
+    "rep": 0,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "bc658b45-ecfc-422f-b2dd-d9077daaf188",
+    "rep": 0,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "26d6e3bd-aeaf-4470-9206-c1cfe97710de",
+    "rep": 1,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "32aef534-2a07-4084-93fd-95c9a69dafb5",
+    "rep": 1,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "92f62426-e93c-4b2b-b6db-b6141ac88965",
+    "rep": 1,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "12e4de4c-7872-4324-ba8a-43497b9d623c",
+    "rep": 1,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "e84436c0-d04e-4387-9892-64009c1d6cdf",
+    "rep": 1,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "35db3280-1735-421c-bcc3-c373d8620a20",
+    "rep": 1,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "e5f42568-344d-4d85-81b9-83f5875cc495",
+    "rep": 1,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "dfa0b7d9-7118-40d2-907e-4aa6f9cfcf66",
+    "rep": 1,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "60741af4-4bf0-43a7-a787-75fe9113a8e5",
+    "rep": 1,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "7eb52aae-fe8f-41d6-a3f7-f7b2fb481368",
+    "rep": 1,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "9e746c34-289c-40a3-82ec-97ad5739b766",
+    "rep": 1,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "46ee99c1-0a3f-435d-a89d-29e0cf5b0706",
+    "rep": 1,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "1bd05a7d-efd5-4e59-9b0c-594ca73397ec",
+    "rep": 1,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "e1a33a39-2677-4a16-988c-84ca24b3a96e",
+    "rep": 1,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "efa3135c-c21b-4fc6-92ee-3997c68f8719",
+    "rep": 1,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "c1bb9a1c-c9ce-47d2-9fa8-1da2488ded9f",
+    "rep": 1,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "252cbc29-c63a-4677-9405-1ab98993cc62",
+    "rep": 1,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "bbd0d0cf-2710-4ce7-8b3d-417f1ada8c79",
+    "rep": 1,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "9afece42-04bd-4b09-84fe-8cd4ccfca368",
+    "rep": 2,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "f4c3cb75-5849-4d15-bfe7-7da12db89ef9",
+    "rep": 2,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "079fa607-04df-4563-9055-f4d4ec2ba9ce",
+    "rep": 2,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "0ea97db2-a94f-4c77-8bb0-cabeb0c718c4",
+    "rep": 2,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "33d9654a-cde6-44f2-81fe-fec9d0054540",
+    "rep": 2,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "8409f9ec-509b-49a1-b881-fb1a5cfef640",
+    "rep": 2,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "72189ead-f1e1-4688-ac80-1296c25d1640",
+    "rep": 2,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "a8d93a47-fd8e-472a-aaf1-c843512cf5c0",
+    "rep": 2,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "5f882b03-7612-441e-8e18-c7da672f1790",
+    "rep": 2,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "6e996e39-1182-4064-b01b-548980f31a0d",
+    "rep": 2,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "692eea0c-d705-4dc3-8580-032a0d700391",
+    "rep": 2,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "bf357a78-79b1-4cba-8d2a-0efb61ebd1a2",
+    "rep": 2,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "b27b33e5-b403-4c02-9fe4-d9d0e27ae065",
+    "rep": 2,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "e9af5a5d-610c-4342-b706-1618a32bf221",
+    "rep": 2,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "4ba0ac66-6718-4c27-90b5-427dd91f98a3",
+    "rep": 2,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "57ef5daf-ad70-473e-9d6d-fc7d9eecba9c",
+    "rep": 2,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "bdb829c8-f090-4fa4-a56e-76a11366d057",
+    "rep": 2,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c2",
+    "session_id": "e698e665-bc46-41b5-a7c9-95f5ba9c4d45",
+    "rep": 2,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "d3d64cce-6dfb-48ce-9c5f-0d4104e00e9e",
+    "rep": 0,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "57c777e1-e2a6-484a-8586-3a1a873fb8b8",
+    "rep": 0,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "81dba264-5dc3-4ade-94bf-6206324a5897",
+    "rep": 0,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "d7b8451d-8b02-491d-aecc-acb672ed7120",
+    "rep": 0,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "1e02a2e4-32c5-4836-8997-3a09d7f44634",
+    "rep": 0,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "388d4466-16ac-41c3-a257-3cfa8f55ea04",
+    "rep": 0,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "77ee9866-a1ea-4c02-a122-5e93e77c0856",
+    "rep": 0,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "bf38b8fe-8b2d-45d4-ac14-95691787b4f7",
+    "rep": 0,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "7e01366d-ccc3-44f9-957d-c10222155fe4",
+    "rep": 0,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "d9196eeb-f45b-4a78-b076-96c7cceb6fa8",
+    "rep": 0,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "e03c6fa5-1004-40df-8d0f-dc8cb60c93b3",
+    "rep": 0,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "6ae0436c-2d4c-4633-8f3b-906b8857c316",
+    "rep": 0,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "cdd9f457-fde8-47cd-bdca-b10415031de3",
+    "rep": 0,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "8e1bf1f4-3afc-41cf-a89f-86ee1ac62b06",
+    "rep": 0,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "e17781b5-467d-4a91-9f42-33029a1eec33",
+    "rep": 0,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "c80885f7-7e67-4498-9202-8be5d43179e1",
+    "rep": 0,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "67973fd9-0d91-4d9e-bde3-d12fd52f9c33",
+    "rep": 0,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "17255f13-4b20-44e5-b97c-88f0d86296cc",
+    "rep": 0,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "da1acb2d-dec0-4f38-96cd-d442c0e1103c",
+    "rep": 1,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "8fc602f9-34cb-4609-8cc4-c987808e631b",
+    "rep": 1,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "ec97c315-5671-4f28-be8a-4dffbff9caf5",
+    "rep": 1,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "7e73fc25-c7e3-427a-a1ae-8fc3877ef3ca",
+    "rep": 1,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "e7c1ae01-13b1-42eb-8314-332ea7967b92",
+    "rep": 1,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "e3a77fd9-fc18-4522-b206-59f1de9d48c3",
+    "rep": 1,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "5fc6a605-6162-4e81-9515-6637accf7022",
+    "rep": 1,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "6d89c9ee-2b87-47b2-92bf-cd14506f7e18",
+    "rep": 1,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "8b05dd6a-10aa-483e-bfbd-9e274b313fa0",
+    "rep": 1,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "c9757f01-ac85-4c25-a6b7-7183a72879a8",
+    "rep": 1,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "ca79225d-1831-4f6d-8648-9fadd7518d90",
+    "rep": 1,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "65bc9c73-70ce-4402-bf07-71f6d0918223",
+    "rep": 1,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "37fa9dc4-b3a1-4c8c-a112-ce7a2ba84568",
+    "rep": 1,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "8a965252-e684-4188-881d-4b8cc572408d",
+    "rep": 1,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "091aea9a-c019-43f9-92b0-0c29d9592bce",
+    "rep": 1,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "68a60cce-3ba2-4fc1-aa43-4517ff384ce0",
+    "rep": 1,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "d57f9bb1-74df-4210-8873-3e30142dcfe8",
+    "rep": 1,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "ec6b578b-63c3-4b2e-8346-4aed99e0e4a5",
+    "rep": 1,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "41d1e9f0-ec83-460d-8900-f1f2fd843a0d",
+    "rep": 2,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "4a4f8107-4528-48a3-923d-7e623b16e68d",
+    "rep": 2,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "60cb48b0-76b9-4fa8-a522-97413ca5658a",
+    "rep": 2,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "912f1980-df9b-44aa-b7df-c89fc0cd94b4",
+    "rep": 2,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "45713729-2bb7-4b4b-8114-551e0e83a435",
+    "rep": 2,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "c09be44b-c50f-4d14-b29d-696108ffb673",
+    "rep": 2,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "69b24840-3464-4b67-9c54-322e6b9c6dd7",
+    "rep": 2,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "a40380cb-6caf-4a0a-a79a-70e3d2f82ec6",
+    "rep": 2,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "d02c9695-eedd-4c5b-a18f-30a9aba0f8d3",
+    "rep": 2,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "0ab0d251-a546-48bd-b7f0-925ccc37a0c0",
+    "rep": 2,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "61cc1625-832d-4603-9a6e-cf358cb355cb",
+    "rep": 2,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "41866ef6-853b-4c3e-adeb-e05c29e16ded",
+    "rep": 2,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "4506edfe-2d6d-4218-a81a-5773d9b7a31b",
+    "rep": 2,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "e778e51a-6bea-4975-828d-d90ceb071830",
+    "rep": 2,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "d792453a-f7c5-4744-ab7b-8a9d356f5c36",
+    "rep": 2,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "c78bb8bc-e7be-4109-a927-42211ffa96fd",
+    "rep": 2,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "da6dde04-0231-4ab3-9fd7-e8e6f21a13ab",
+    "rep": 2,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c3",
+    "session_id": "8e553a42-8e5a-4614-8c52-3b4f2c0e73c0",
+    "rep": 2,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "df2b8406-0337-4ad5-b2a5-1db5d8e97c4a",
+    "rep": 0,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "44eb50ad-2d37-410b-b2bc-99dda2144d5d",
+    "rep": 0,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "e9e3048b-09a9-4ea3-b7de-4da7018b2c17",
+    "rep": 0,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "f28fb038-5650-46c0-8247-2bde0d790ed6",
+    "rep": 0,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "be19788c-92d2-4813-b2d1-9582b8e466a2",
+    "rep": 0,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "b197e799-bb8d-4830-bb3b-d5973aea929c",
+    "rep": 0,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "36ff51e2-f125-40e5-99e5-b6ab11c7ba1b",
+    "rep": 0,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "b2e2bbef-ca81-4d3b-9e2b-840150e559ec",
+    "rep": 0,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "3bb9dbc4-356d-4e2d-bd32-f7536377e4e5",
+    "rep": 0,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "be409c0c-539e-4436-af4c-7c91c0122379",
+    "rep": 0,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "b1aa1e2f-5bdd-429f-bb6d-2f728a51bcaa",
+    "rep": 0,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "f2371638-d528-49a4-94b1-dc75387d6a68",
+    "rep": 0,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "0e96f642-646c-47b8-af6a-19bf0d629fa5",
+    "rep": 0,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "23bdcf34-8ece-4719-8c13-ccdbe4c492f8",
+    "rep": 0,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "902f3597-a096-4784-9b53-bd8a5c76ee26",
+    "rep": 0,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "9fb44b42-cc80-4287-af0e-7e218a23ba1c",
+    "rep": 0,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "08a42f7d-26da-4ba7-99de-66ab778cf788",
+    "rep": 0,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "a5b6bbc9-4a6f-4f78-91cc-8e6388c3e104",
+    "rep": 0,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "594046a6-cb84-4f2a-9141-744c3fc90e43",
+    "rep": 1,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "6692ad11-ae01-4995-96c3-e26af946a0a0",
+    "rep": 1,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "ca34efd3-e169-402e-826d-c7f7f6d1ab12",
+    "rep": 1,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "5889761d-11c7-4435-a593-b4cd0504cfbc",
+    "rep": 1,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "1e3198b4-5d3c-4a89-b6ff-331f54432d13",
+    "rep": 1,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "ec78b0fa-8b39-484f-b21a-557e9ae81682",
+    "rep": 1,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "eba171a8-ed05-4cb1-b22b-10d0b827438d",
+    "rep": 1,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "b263d35e-e20e-401c-bf0c-85046a567a1f",
+    "rep": 1,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "47a2e25a-33ad-466c-a74d-4213264e5196",
+    "rep": 1,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "a6a30783-e3a3-4bb6-9543-e9590c33adce",
+    "rep": 1,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "2f956e1d-6157-472f-a1cc-e29df9f2da12",
+    "rep": 1,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "8951161a-ddc1-4f40-ba30-30d8b916247e",
+    "rep": 1,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "aa3a7161-4933-4e85-ad76-91dca3ed19fe",
+    "rep": 1,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "429975ba-0e10-4c49-8f94-7b9c1d20e854",
+    "rep": 1,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "6c1e16d0-dc2d-4021-b608-2a28f03df40a",
+    "rep": 1,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "323be805-5406-45ab-a707-8394f16c3af5",
+    "rep": 1,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "28ba7b43-9b3e-44e3-9eb0-ac7b83c4b519",
+    "rep": 1,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "2ce6e5ea-1198-4862-b862-d4b5a5820677",
+    "rep": 1,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "3562a1a8-eb8e-4b63-a9c8-23f03acc498e",
+    "rep": 2,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "e0750b9d-aaab-45f2-b244-a20e5efaa93c",
+    "rep": 2,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "bd6754f1-b4a6-4014-ba17-17e597df5a69",
+    "rep": 2,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "f2841103-c047-41a6-b704-33049d13577e",
+    "rep": 2,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "a371a88e-6187-4936-9231-c3b76c04c354",
+    "rep": 2,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "9af59261-3938-4934-bd6d-b7c0a4812310",
+    "rep": 2,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "c52a0a86-7c2e-46f7-8c86-44fadfbef165",
+    "rep": 2,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "7c7c0625-c837-4735-b66e-5a09d96a696d",
+    "rep": 2,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "f3b7c1aa-5d14-41fa-9669-99966af4a618",
+    "rep": 2,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "a784f533-cf0f-44ba-9f38-a0d4365e8853",
+    "rep": 2,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "5b504acd-8aa2-419c-be7c-1d623ec7592c",
+    "rep": 2,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "cad51a99-9206-4d02-8fb5-7221be8daf97",
+    "rep": 2,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "da7b077b-7e36-457c-9360-3dd336173a79",
+    "rep": 2,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "1e0f5d9d-f826-44b0-a3bc-2f02d83b1f1e",
+    "rep": 2,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "cef60277-d849-4390-b0e0-36628c5dd6af",
+    "rep": 2,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "05d82d3e-fb74-44b3-bbef-b5760a40bbf7",
+    "rep": 2,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "0b8532ce-90b2-4c5a-bf50-9265802fc995",
+    "rep": 2,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "b-c4",
+    "session_id": "4ef60ec6-6608-430f-943f-032007e2bc5c",
+    "rep": 2,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "bf65ef00-cbe4-46ae-a0a1-a1a7382ab2a7",
+    "rep": 0,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "4eb668e7-be97-4217-8253-f3cd0a40e416",
+    "rep": 0,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "f18c351c-17ec-404e-a6a3-9160a517cf0b",
+    "rep": 0,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "f699d4c4-78ca-4922-9cea-4a1cd1d663d9",
+    "rep": 0,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "d1617ad1-3a76-48db-89a8-3e9d7d8a48bf",
+    "rep": 0,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "3c4ccade-425d-4134-8283-c6eb048cb57e",
+    "rep": 0,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "b0b6ae08-96d4-48bb-afa3-22b5f51925a3",
+    "rep": 0,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "60744a68-6884-4381-94b2-c36d59c80c2d",
+    "rep": 0,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "775e3431-7708-4615-b017-2149d7ca7744",
+    "rep": 0,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "58aadba0-d181-4a85-9978-ed21607d3321",
+    "rep": 0,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "4bfb027a-b64c-48d4-a20d-db7097afa9c8",
+    "rep": 0,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "c1e0d166-e67e-4b9b-ad71-72b659343b9d",
+    "rep": 0,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "0089fcc6-8020-41cf-bbe2-ae0551fa5b4c",
+    "rep": 0,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "bab4ae80-de20-45a9-8e65-cc8c9cb1c3d1",
+    "rep": 0,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "04c5d846-1908-4358-8e06-d26fd23b5217",
+    "rep": 0,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "6187be3a-2ad9-4ae9-a59b-b99da6a292ed",
+    "rep": 0,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "99f89096-9bcb-4f05-949b-eafdd83351d2",
+    "rep": 0,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "54e0ded2-6fa2-40fa-bd71-8d1c355c4545",
+    "rep": 0,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "87245c35-384f-4689-81da-f363027ede76",
+    "rep": 1,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "37863489-bb64-478c-af1d-08d8ec0e51dc",
+    "rep": 1,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "27fcce26-97db-4dba-b7a0-274aa5e4e53f",
+    "rep": 1,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "f86f64ab-913c-4662-8fe3-d42415cddaee",
+    "rep": 1,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "5c95b6da-ab0b-48d4-ad58-3ea79414fd58",
+    "rep": 1,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "4a5601c9-16e6-4143-8563-23f1462b0275",
+    "rep": 1,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "51d0e6ef-f4f3-4997-ba37-4cc5bd9ac950",
+    "rep": 1,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "c0fce4e2-8c72-4a08-8cf5-c7b2bd865a56",
+    "rep": 1,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "da74f19b-534e-4d39-b7bf-e87d0a4f5284",
+    "rep": 1,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "83364bac-80ba-4554-9a97-29256d119ffb",
+    "rep": 1,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "dbb86f97-02fe-4dc5-b5bd-d513897e5765",
+    "rep": 1,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "bf442643-1871-4a65-8a0a-cef3f045f6db",
+    "rep": 1,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "9230759c-f946-4be0-a054-ce7d3654513a",
+    "rep": 1,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "7f8a0cb3-2672-443b-b48b-73b2bf4a50dc",
+    "rep": 1,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "9ae9103d-8aec-4a99-adbd-b4c0a20757b3",
+    "rep": 1,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "9f4e27f9-df9e-49dd-91da-c52b4c0c4661",
+    "rep": 1,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "5d4ade0e-d099-46a2-a99b-4db4ba772c04",
+    "rep": 1,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "090a714b-a5a2-4ce3-b585-89bde7f8c2c1",
+    "rep": 1,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "02e1699e-bca6-494f-bad8-924a3f823d9d",
+    "rep": 2,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "b80a5b8a-2381-4441-993a-8f745d1d4620",
+    "rep": 2,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "e6ab68f8-9510-49e9-ba35-b6d28cc41355",
+    "rep": 2,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "aabbd110-e6b6-4226-bf06-b815c32bc3a4",
+    "rep": 2,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "f89d459c-ef8a-4e87-870d-22af6b51b0ba",
+    "rep": 2,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "d09f73ab-3eee-4215-9001-edb32305d224",
+    "rep": 2,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "9950b592-73c5-4b5a-a015-5fa3c15859bb",
+    "rep": 2,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "aed23ba3-0e77-4c8a-8cc3-e0f597096c35",
+    "rep": 2,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "83ba6bc1-7916-40f4-afa7-e8fe9557aedd",
+    "rep": 2,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "a28897e4-188e-4653-803b-4558bdd63959",
+    "rep": 2,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "fca51038-63d6-4806-aa9f-fa4c5550adcc",
+    "rep": 2,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "6da9372a-ca75-4235-899f-10acdaf255da",
+    "rep": 2,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "6590c7b8-dc2c-45ea-ab0d-791ac11da8f7",
+    "rep": 2,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "d42e6322-3ed9-4aaa-912f-1923d65d893c",
+    "rep": 2,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "23d9eb8f-b2f3-49e4-8fc5-abff92fd32b5",
+    "rep": 2,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "d873b6c2-7c03-4163-ac31-2a849cd435fa",
+    "rep": 2,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "3109a2ee-5386-4ff2-bdd2-dcd8efe1a512",
+    "rep": 2,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c1",
+    "session_id": "3db4e801-2651-4b6c-80f6-e57ba48d8ffe",
+    "rep": 2,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "cf456f30-64b8-43ac-b305-5e8eaf5888d4",
+    "rep": 0,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "0e5ba191-947d-45bf-a86e-7c9e49635ae7",
+    "rep": 0,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "e1763536-b756-4d8e-b144-2fabca28fa2a",
+    "rep": 0,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "6693cf49-3e6a-4c60-acfe-d9e428002c15",
+    "rep": 0,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "804cbf90-fc73-4a3f-a35f-eafb03131e9a",
+    "rep": 0,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "d5ea2816-341c-4943-993a-c1e3f8cc23ab",
+    "rep": 0,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "172e65e3-b201-4486-8fe2-904b0d71b922",
+    "rep": 0,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "297e6b72-7e40-41ca-a39a-b861a1f62e35",
+    "rep": 0,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "fafc0776-86c4-4f29-a076-848bc5f3cf4a",
+    "rep": 0,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "8669d8a9-6f25-400f-a7ee-d2221691b069",
+    "rep": 0,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "90801647-ba24-4e52-b96d-88b63bc7df48",
+    "rep": 0,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "5c9b0550-d1a0-444a-9242-bf09cab7f539",
+    "rep": 0,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "b9356bc8-0b9d-4429-a587-0bc8597fed90",
+    "rep": 0,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "ab280f58-1851-4822-a067-0b9eff7d84e4",
+    "rep": 0,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "ea921357-f5f4-40be-9fc0-798d65abd36b",
+    "rep": 0,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "2b7ebf1a-ae7a-4ece-ab79-3aa75c52e4e8",
+    "rep": 0,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "aed21e21-1d8b-4608-be5a-83df5e36443f",
+    "rep": 0,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "936a27ab-cdf7-4b06-beef-a79b72c22fc0",
+    "rep": 0,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "90d44dac-f8a7-4966-a6ee-639011bcc6c6",
+    "rep": 1,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "1ee160dd-8c82-4ab7-87be-7062ef994188",
+    "rep": 1,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "397c61f0-d88e-422a-bb86-b67ef07cfab2",
+    "rep": 1,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "8d054042-0dd0-41fa-9d32-6652fb0dd8f1",
+    "rep": 1,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "0e923884-a398-441f-8986-3b11a2b5febf",
+    "rep": 1,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "68bb31ed-3e10-488b-8cab-cc7cf94f36a7",
+    "rep": 1,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "c5f2ec28-106e-403b-a609-8bb5bbf6ac62",
+    "rep": 1,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "08b47fdb-d35b-41db-827a-c6db296b5da8",
+    "rep": 1,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "a9960bf8-a0cf-40a0-8973-1221ffe46387",
+    "rep": 1,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "d948c5fc-ba92-480d-9d0c-546fdaf395a7",
+    "rep": 1,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "64b73223-a272-41ba-92f3-f7a5b58c6069",
+    "rep": 1,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "998841f2-70d6-463a-9559-d096de368110",
+    "rep": 1,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "855ce737-d0ea-472d-b114-e3292bdac298",
+    "rep": 1,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "4985657d-f379-477d-954b-751024e536e7",
+    "rep": 1,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "4637fbcb-0b4e-45c4-bd54-ae623821f701",
+    "rep": 1,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "5ae2e3f0-b0f2-4b8a-9f2f-68eb84a8771c",
+    "rep": 1,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "633b1a09-7450-426a-83ee-d9c5e115d185",
+    "rep": 1,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "27609b88-a04b-47bc-953e-b324696f5d9d",
+    "rep": 1,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "834cfd21-bf77-412b-8279-377035a059a3",
+    "rep": 2,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "b3dec196-206e-4b79-9742-e9a5517eda63",
+    "rep": 2,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "f65c9568-7c47-4be7-8075-a2285ec5e241",
+    "rep": 2,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "bc8eb302-f716-48f8-99c5-cbed9ee75b48",
+    "rep": 2,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "601b3d18-dd7a-47b8-815c-5f6cdea04f68",
+    "rep": 2,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "3b0d11c7-617a-4ccf-902a-14bb8ee65ac7",
+    "rep": 2,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "e4c22b27-c704-460a-9f8a-f461a29418e7",
+    "rep": 2,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "c6a4bc10-9a3a-444d-aa09-c1d409b302fa",
+    "rep": 2,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "f6b8bd14-4fcc-4592-9b10-b1e167529363",
+    "rep": 2,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "854a30a9-898e-47ac-b8da-6b5ff48295e9",
+    "rep": 2,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "bcc15d91-f59e-4e5b-a2c0-65a49ae4ea33",
+    "rep": 2,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "8616bf45-7dad-4d47-b6bc-e559d47d055c",
+    "rep": 2,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "ee040247-031e-4a29-8335-11b8109cabc8",
+    "rep": 2,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "855387ec-0523-4d04-b4c2-9c32370d1473",
+    "rep": 2,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "dfd007a3-8887-413c-a953-8e279d2f0f06",
+    "rep": 2,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "5c2d44f1-e16c-41f8-8588-285ad0470971",
+    "rep": 2,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "1303f8b9-458a-4deb-8e5e-4ca7278a4b68",
+    "rep": 2,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c2",
+    "session_id": "a6f70dee-7291-4662-bbb3-0186fbded7ca",
+    "rep": 2,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "248cb1d7-157a-4b7d-a718-1f4d3da6a635",
+    "rep": 0,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "a676f14a-44fe-4936-8cff-c59bdecdc319",
+    "rep": 0,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "e39b34a7-4c78-4e60-9d53-ee95887527d6",
+    "rep": 0,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "0435fc36-2ae7-49d3-8d9b-457a5164a258",
+    "rep": 0,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "5a16efcc-03b7-437a-8562-8d20ea74d63e",
+    "rep": 0,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "7a4b6f2f-ef3f-4f99-aa94-8f72f31aa9d1",
+    "rep": 0,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "45643d23-c20a-4759-8cd0-dab15ce85406",
+    "rep": 0,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "24b8c93f-4fe3-4bbb-b2fe-57b06d5c69ec",
+    "rep": 0,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "ad737c99-5e04-49a8-8e99-b55d6e6156f9",
+    "rep": 0,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "c13a5d91-e510-4a1c-b194-11c2bf554e5e",
+    "rep": 0,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "997b896f-c976-4ade-a21e-64107c0903a5",
+    "rep": 0,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "eb352675-131c-45bb-8aea-a7181fa2bc7e",
+    "rep": 0,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "d7aedd38-a412-412b-add5-56774b14efa6",
+    "rep": 0,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "186db38d-565f-4178-9de9-0ed9bd62710a",
+    "rep": 0,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "4d889c85-2be1-40e3-8158-347e7c87872d",
+    "rep": 0,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "28cf9419-f33b-4fc1-bbd5-088ea04b6877",
+    "rep": 0,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "a9b4d6db-9010-418f-8454-df99d669d192",
+    "rep": 0,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "645029cd-7095-4c2d-95f4-b6f0b5a54ee8",
+    "rep": 0,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "aead085f-662d-4fb5-a028-4cb5fe78a4e9",
+    "rep": 1,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "78359d80-0421-4941-9e75-d52d3b097870",
+    "rep": 1,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "b4997e86-3dc1-4d3f-ac0e-589e56f48456",
+    "rep": 1,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "c3942dc3-8296-4001-9f97-2cb6e5deecf6",
+    "rep": 1,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "fe109a94-681c-4ab7-a4b3-a62925a3ec4d",
+    "rep": 1,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "1914b7f0-ad22-47c3-90df-37c1aee5b592",
+    "rep": 1,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "425204f6-f13f-4393-a723-65fa9f7fca1a",
+    "rep": 1,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "774c91d0-8200-425a-8a01-1e705b7fc2b6",
+    "rep": 1,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "626134eb-6ed4-4810-90ef-1c6dc28365ab",
+    "rep": 1,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "d7277e1a-c56a-481d-aaa4-275f7d6ca215",
+    "rep": 1,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "005e05a4-bdb4-44bb-bfc2-08cebdb366dc",
+    "rep": 1,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "4358f6f9-f56e-4e69-997d-14ea9414150f",
+    "rep": 1,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "37323e2b-8b96-4a32-8e82-2fa12f9a8baa",
+    "rep": 1,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "12131cfc-b699-4387-b144-352bcd875fe2",
+    "rep": 1,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "c5bf0b49-fd4a-43e3-80c9-24db5a4b6a9c",
+    "rep": 1,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "1f41ece5-7f0b-4d85-bdf6-14a4327edf0c",
+    "rep": 1,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "b553850e-3a59-43e5-9edc-8b56359f89dd",
+    "rep": 1,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "2448dc50-4eea-430d-bcb6-e31e997430ad",
+    "rep": 1,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "bb8c1f4b-5517-47be-98ea-5ac2af203086",
+    "rep": 2,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "44f3cab1-6388-4282-98d2-419add44d1cf",
+    "rep": 2,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "6f6caab9-acfd-435a-b6f1-b4c3cc7c25f2",
+    "rep": 2,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "cc50dc7e-b65d-4583-8665-37d5f3dc5748",
+    "rep": 2,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "a236cd24-1020-4fdf-8704-934bf5cf293b",
+    "rep": 2,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "01c0a8d5-4045-4f15-8c7b-c8c19e79831e",
+    "rep": 2,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "0267c74c-f651-4702-b51d-f56b09bbb54c",
+    "rep": 2,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "0d0d5c25-ef93-4a69-95f5-a2ceccf57e8e",
+    "rep": 2,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "17f2ec5c-c650-455d-828f-ee4d32ab874e",
+    "rep": 2,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "21ecca6f-3f28-4b64-92bd-89cc580eb4d7",
+    "rep": 2,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "6728939f-bcc9-4ff3-b1a9-2958905cb099",
+    "rep": 2,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "d04d0034-2950-4737-b7cc-f4750cf62f28",
+    "rep": 2,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "f6f553ce-7b1d-4a77-bcbc-d8c88b0a1398",
+    "rep": 2,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "5fe80807-5465-4ae6-a164-8feeb53f18e6",
+    "rep": 2,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "9dad21fa-e922-484a-94b6-6fafbbfd8343",
+    "rep": 2,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "952129cf-a24e-433e-910e-3cc7dab622b5",
+    "rep": 2,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "9454d9ba-b9af-4494-a5f3-c3af96b5d5a1",
+    "rep": 2,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c3",
+    "session_id": "633e5418-7e4d-4eb5-86a1-f8349dea394c",
+    "rep": 2,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "34a3dd78-0d4d-4603-9d76-1edb2f06135a",
+    "rep": 0,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "3c6d8096-83e0-4837-8c38-8a3426518f14",
+    "rep": 0,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "ca159666-5c6a-4ca1-9f1e-f0fa6d03c22f",
+    "rep": 0,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "eef3311f-d14b-4510-a24f-a05e6eb6425d",
+    "rep": 0,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "94b6d9fe-1081-4a7e-bdec-2a0f86abf0f5",
+    "rep": 0,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "598de987-c39a-4eff-9b35-4ec5de9a952b",
+    "rep": 0,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "4bd1f2cd-d396-419e-8062-ba9930397150",
+    "rep": 0,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "2a902d8c-1ebe-43dc-abd3-7fb8417ce9b0",
+    "rep": 0,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "16ab77fe-284d-4056-b491-993c13f72908",
+    "rep": 0,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "7c49397d-f321-4b77-808e-b06bf7aa1d2c",
+    "rep": 0,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "567cc32f-a490-47b8-a408-07f6534d7a47",
+    "rep": 0,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "654de0f9-50d0-4ea4-b191-c1a02a727cba",
+    "rep": 0,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "869c3822-56ee-48a7-a16a-75921754653b",
+    "rep": 0,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "0c73aafb-9620-447c-a63b-29f3f5af2adf",
+    "rep": 0,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "e8614c64-d579-4de1-93df-6a49658b8f69",
+    "rep": 0,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "2415cb9b-3bd4-43b5-afd6-21a51fd80660",
+    "rep": 0,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "7b32126b-a2c7-4e9e-97ec-fc4eb302a35d",
+    "rep": 0,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "16ed3734-7ef5-4f85-bf0d-c79a201b952e",
+    "rep": 0,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "830d69a9-0d3f-4309-b6be-6ff579657d2d",
+    "rep": 1,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "f980abad-5bcd-40c1-890d-7109b768b3cf",
+    "rep": 1,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "8bf71d52-3f4a-4a8a-a324-fb4474cd1657",
+    "rep": 1,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "d2248170-2fa8-4086-aab2-cb33cca15338",
+    "rep": 1,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "504389f1-9932-4d27-b18a-931750494aa4",
+    "rep": 1,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "3bc4e604-7b5d-475f-9345-13f608846d4f",
+    "rep": 1,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "60901504-d85e-48c8-9e24-6c3d75ccda99",
+    "rep": 1,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "ef579a1a-e215-435d-b312-f228ad08d0fc",
+    "rep": 1,
+    "query_idx": 6,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "5705be34-2eb0-4c84-b2c2-0be45fa0390a",
+    "rep": 1,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "aef85f95-f90f-47ea-80dc-a2d5249447aa",
+    "rep": 1,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "6056988c-c7b0-4592-b809-c675f0f406b9",
+    "rep": 1,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "6ae90995-9802-4967-be4c-c73549f8bf11",
+    "rep": 1,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "27aaf3d8-7b09-4419-bd88-93502008f01e",
+    "rep": 1,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "97715b8a-7c99-419d-b544-454de1245bf1",
+    "rep": 1,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "6e1622bf-f6f8-410a-b39b-5c1bb0fb00c7",
+    "rep": 1,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "50881de4-b3c0-426d-b9dd-28ec2e6614f6",
+    "rep": 1,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "4a86a96a-7369-40dc-84f9-6f8ff3f143ee",
+    "rep": 1,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "0717a0df-205d-4a6b-bf64-48ef689c9e48",
+    "rep": 1,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "a5c3a61c-e8f7-4992-9c0b-be3ef2837336",
+    "rep": 2,
+    "query_idx": 14,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "08f113ea-275f-4bc8-927d-a1992414e364",
+    "rep": 2,
+    "query_idx": 11,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "62e54367-b04a-4402-868b-6d26405cf54a",
+    "rep": 2,
+    "query_idx": 2,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "35656a22-efaa-4c6c-8c38-a2c7fd11e41a",
+    "rep": 2,
+    "query_idx": 15,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "798b9f84-de0d-468a-b049-681a6672a00b",
+    "rep": 2,
+    "query_idx": 3,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "4cc5cdc1-2b67-45b3-ac5b-b7a514c60751",
+    "rep": 2,
+    "query_idx": 17,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "4a83c078-e7f2-4cd5-8180-2ac4612231a3",
+    "rep": 2,
+    "query_idx": 12,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "579f47cb-62a1-452c-927f-a48f0885de30",
+    "rep": 2,
+    "query_idx": 1,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "f395c01b-5302-420f-8b53-ed4f75b7154b",
+    "rep": 2,
+    "query_idx": 0,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "2b1b78b1-854c-454c-86fa-4429ff27c205",
+    "rep": 2,
+    "query_idx": 13,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "d1e1700d-14cb-410d-bf82-7e15400cc245",
+    "rep": 2,
+    "query_idx": 16,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "bc614552-5bb9-400f-adb3-bd1780e6d09e",
+    "rep": 2,
+    "query_idx": 4,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "be15b37e-25b4-49b7-8898-7cd37cca7b6a",
+    "rep": 2,
+    "query_idx": 9,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "9f143d34-6ea9-40ad-851c-5f100113e186",
+    "rep": 2,
+    "query_idx": 5,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "a7a0a8c6-8acf-4272-8199-0c85d6e95ec7",
+    "rep": 2,
+    "query_idx": 10,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "229399c9-1fcc-483d-9c1d-2c7d9dbfaa22",
+    "rep": 2,
+    "query_idx": 8,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "5ab544da-b3b8-4eff-a7b6-521c1a1a91cb",
+    "rep": 2,
+    "query_idx": 7,
+    "heuristic": true
+  },
+  {
+    "condition": "c-c4",
+    "session_id": "3c0f6a5e-2882-459e-9b03-1a1664f1bb0f",
+    "rep": 2,
+    "query_idx": 6,
+    "heuristic": true
+  }
+]

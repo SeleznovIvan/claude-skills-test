@@ -1,0 +1,199 @@
+{"test_type": "baseline", "timestamp": "2026-01-29T15:10:19Z", "tests": [
+  {
+    "test_num": 1,
+    "skill": "dockerfile-generator",
+    "query": "write a dockerfile",
+    "why": "Unique task - only docker skill",
+    "session_id": "d43bdfd3-63bd-4ade-8688-aefe7f232caa",
+    "status": "error_max_turns",
+    "turns": 3,
+    "skill_status": "presumed_success"
+  }
+,
+  {
+    "test_num": 2,
+    "skill": "dockerfile-generator",
+    "query": "generate dockerfile for node app",
+    "why": "Docker + app context",
+    "session_id": "a387935c-4667-4230-b2a8-22aada4544da",
+    "status": "error_max_turns",
+    "turns": 3,
+    "skill_status": "presumed_success"
+  }
+,
+  {
+    "test_num": 3,
+    "skill": "dockerfile-generator",
+    "query": "containerize my application",
+    "why": "Container synonym trigger",
+    "session_id": "e798965e-6ba3-4f55-b4d8-0ee4683d5b8e",
+    "status": "error_max_turns",
+    "turns": 3,
+    "skill_status": "presumed_success"
+  }
+,
+  {
+    "test_num": 4,
+    "skill": "dockerfile-generator",
+    "query": "create docker image config",
+    "why": "Docker image context",
+    "session_id": "8654e515-1277-40cd-a8da-87673ef05e60",
+    "status": "error_max_turns",
+    "turns": 3,
+    "skill_status": "presumed_success"
+  }
+,
+  {
+    "test_num": 5,
+    "skill": "dockerfile-generator",
+    "query": "help with multi-stage docker build",
+    "why": "Docker build optimization",
+    "session_id": "48c9eaa3-bd98-4e68-bb96-612e62d334c6",
+    "status": "error_max_turns",
+    "turns": 3,
+    "skill_status": "presumed_success"
+  }
+,
+  {
+    "test_num": 6,
+    "skill": "dockerfile-generator",
+    "query": "setup dockerfile for python flask",
+    "why": "Dockerfile for specific stack",
+    "session_id": "18b1d0e1-4a76-47e5-87df-f51f6583fd72",
+    "status": "error_max_turns",
+    "turns": 3,
+    "skill_status": "presumed_success"
+  }
+,
+  {
+    "test_num": 7,
+    "skill": "git-workflow",
+    "query": "resolve git merge conflict",
+    "why": "Unique domain - only git skill",
+    "session_id": "acd3a429-142c-4775-b024-8b672cff3fd5",
+    "status": "success",
+    "turns": 2,
+    "skill_status": "presumed_success"
+  }
+,
+  {
+    "test_num": 8,
+    "skill": "git-workflow",
+    "query": "help with git rebase",
+    "why": "Git rebase assistance",
+    "session_id": "85f49f7a-e5e2-4b67-a686-f94e6620455e",
+    "status": "success",
+    "turns": 3,
+    "skill_status": "presumed_success"
+  }
+,
+  {
+    "test_num": 9,
+    "skill": "git-workflow",
+    "query": "fix my git history",
+    "why": "Git history task",
+    "session_id": "dc6c6bfb-8632-42d7-8212-1fdc7c5b4810",
+    "status": "success",
+    "turns": 2,
+    "skill_status": "presumed_success"
+  }
+,
+  {
+    "test_num": 10,
+    "skill": "git-workflow",
+    "query": "squash commits before PR",
+    "why": "Git squash workflow",
+    "session_id": "8f708447-fe7d-4e28-9cd8-670937c74602",
+    "status": "error_max_turns",
+    "turns": 3,
+    "skill_status": "presumed_success"
+  }
+,
+  {
+    "test_num": 11,
+    "skill": "git-workflow",
+    "query": "undo last git commit",
+    "why": "Git recovery task",
+    "session_id": "9741b280-7dcc-4562-a824-b66e9aed98f8",
+    "status": "success",
+    "turns": 2,
+    "skill_status": "presumed_success"
+  }
+,
+  {
+    "test_num": 12,
+    "skill": "git-workflow",
+    "query": "cherry pick a commit from another branch",
+    "why": "Advanced git operation",
+    "session_id": "c2173f4f-c327-4862-b4c7-884a3ff92174",
+    "status": "error_max_turns",
+    "turns": 3,
+    "skill_status": "presumed_success"
+  }
+,
+  {
+    "test_num": 13,
+    "skill": "svelte5-runes",
+    "query": "use svelte5 runes",
+    "why": "Explicit skill name mention",
+    "session_id": "dfa08b20-f6e7-483f-a96d-6b50680de8e9",
+    "status": "success",
+    "turns": 3,
+    "skill_status": "presumed_success"
+  }
+,
+  {
+    "test_num": 14,
+    "skill": "svelte5-runes",
+    "query": "create reactive state with $state",
+    "why": "Unique keyword $state",
+    "session_id": "38c523d8-3780-4caf-b408-506f1e481fd8",
+    "status": "success",
+    "turns": 3,
+    "skill_status": "presumed_success"
+  }
+,
+  {
+    "test_num": 15,
+    "skill": "svelte5-runes",
+    "query": "convert svelte 4 to svelte 5",
+    "why": "Migration task with svelte 5",
+    "session_id": "1bba8e23-b6eb-4ba0-859d-1975ebe33324",
+    "status": "error_max_turns",
+    "turns": 3,
+    "skill_status": "presumed_success"
+  }
+,
+  {
+    "test_num": 16,
+    "skill": "svelte5-runes",
+    "query": "use $derived and $effect",
+    "why": "Multiple unique rune keywords",
+    "session_id": "f7052698-8fb1-48da-a5be-c20a32481395",
+    "status": "success",
+    "turns": 2,
+    "skill_status": "presumed_success"
+  }
+,
+  {
+    "test_num": 17,
+    "skill": "svelte5-runes",
+    "query": "how do I use runes in svelte",
+    "why": "Direct runes question",
+    "session_id": "f31a263c-cdc1-4104-a28c-23eb86944a13",
+    "status": "success",
+    "turns": 3,
+    "skill_status": "presumed_success"
+  }
+,
+  {
+    "test_num": 18,
+    "skill": "svelte5-runes",
+    "query": "svelte 5 component with $props",
+    "why": "Props rune usage",
+    "session_id": "2b45d158-4eb3-4496-8f4a-27e851e0a98f",
+    "status": "success",
+    "turns": 3,
+    "skill_status": "presumed_success"
+  }
+]}

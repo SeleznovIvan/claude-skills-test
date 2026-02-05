@@ -1,0 +1,24 @@
+=== Baseline Test (No Hook) ===
+Date: Thu Jan 29 01:07:56 JST 2026
+
+--- Test 1: 'use svelte5 runes to create a counter' ---
+Expected skill: svelte5-runes
+✗ SKILL NOT INVOKED (expected: svelte5-runes)
+  Session: 3cf55157-e0e7-4edb-aded-99815318151b
+
+--- Test 2: 'create reactive state with $state' ---
+Expected skill: svelte5-runes
+✗ SKILL NOT INVOKED (expected: svelte5-runes)
+  Session: aae5121f-e87a-42ba-a174-93fb3ab6071d
+
+--- Test 3: 'write a dockerfile for node app' ---
+Expected skill: dockerfile-generator
+✗ SKILL NOT INVOKED (expected: dockerfile-generator)
+  Session: 224e2b02-f1e8-40f8-a85d-ac0ef754d943
+
+--- Test 4: 'resolve git merge conflict' ---
+Expected skill: git-workflow
+✗ SKILL NOT INVOKED (expected: git-workflow)
+  Session: 1348fc17-901b-4ee8-8eee-08d1481aca53
+
+=== Results: 0/4 correct ===

@@ -1,0 +1,26 @@
+[
+  {
+    "query": "write a dockerfile",
+    "why": "Unique task - only docker skill"
+  },
+  {
+    "query": "generate dockerfile for node app",
+    "why": "Docker + app context"
+  },
+  {
+    "query": "containerize my application",
+    "why": "Container synonym trigger"
+  },
+  {
+    "query": "create docker image config",
+    "why": "Docker image context"
+  },
+  {
+    "query": "help with multi-stage docker build",
+    "why": "Docker build optimization"
+  },
+  {
+    "query": "setup dockerfile for python flask",
+    "why": "Dockerfile for specific stack"
+  }
+]

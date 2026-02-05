@@ -1,0 +1,50 @@
+{
+  "experiment": "replication-v2",
+  "reps": 3,
+  "seed": 42,
+  "max_turns": 5,
+  "delay_ms": 2000,
+  "variants": [
+    "a",
+    "b",
+    "c"
+  ],
+  "conditions": [
+    "c1",
+    "c2",
+    "c3",
+    "c4"
+  ],
+  "condition_matrix": {
+    "c1": {
+      "claude_md": false,
+      "hook": false
+    },
+    "c2": {
+      "claude_md": true,
+      "hook": false
+    },
+    "c3": {
+      "claude_md": false,
+      "hook": true
+    },
+    "c4": {
+      "claude_md": true,
+      "hook": true
+    }
+  },
+  "variant_sources": {
+    "a": "/Users/ivanseleznov/Projects/claude-stuff/skill-test/results/description-experiment/variant-a-current",
+    "b": "/Users/ivanseleznov/Projects/claude-stuff/skill-test/results/description-experiment/variant-b-expanded",
+    "c": "/Users/ivanseleznov/Projects/claude-stuff/skill-test/results/description-experiment/variant-c-directive"
+  },
+  "skills": [
+    "dockerfile-generator",
+    "git-workflow",
+    "svelte5-runes"
+  ],
+  "queries_per_skill": 6,
+  "total_queries": 18,
+  "total_sessions": 648,
+  "started_at": "2026-02-03T16:20:01Z"
+}

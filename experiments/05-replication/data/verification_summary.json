@@ -1,0 +1,11 @@
+{
+  "total_verified": 37,
+  "skill_invoked": 37,
+  "skill_not_invoked": 0,
+  "conclusion": "All error_max_turns sessions had Skill tool invoked successfully",
+  "corrected_results": {
+    "total_sessions": 650,
+    "skill_invoked": 650,
+    "activation_rate": 1.0
+  }
+}

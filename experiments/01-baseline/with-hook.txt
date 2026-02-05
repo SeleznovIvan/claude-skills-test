@@ -1,0 +1,38 @@
+=== Hook Test (With Scoring Hook) ===
+Date: Thu Jan 29 01:09:24 JST 2026
+
+--- Test 1: 'use svelte5 runes to create a counter' ---
+Expected skill: svelte5-runes
+  Session: 211ee4d5-ad73-4feb-ac49-8a656d03ac1c
+  Status: success, Turns: 4
+  → Verify skill usage with: analyze session 211ee4d5-ad73-4feb-ac49-8a656d03ac1c
+  ✓ PRESUMED SKILL ACTIVATED (no Skill denial)
+
+--- Test 2: 'create reactive state with $state' ---
+Expected skill: svelte5-runes
+  Session: 0b6232db-eabb-4922-8bd8-52cc7122448d
+  Status: success, Turns: 3
+  → Verify skill usage with: analyze session 0b6232db-eabb-4922-8bd8-52cc7122448d
+  ✓ PRESUMED SKILL ACTIVATED (no Skill denial)
+
+--- Test 3: 'write a dockerfile for node app' ---
+Expected skill: dockerfile-generator
+  Session: 2ef1aa3f-dfbb-4fc3-922e-2de9f51788be
+  Status: success, Turns: 3
+  → Verify skill usage with: analyze session 2ef1aa3f-dfbb-4fc3-922e-2de9f51788be
+  ✓ PRESUMED SKILL ACTIVATED (no Skill denial)
+
+--- Test 4: 'resolve git merge conflict' ---
+Expected skill: git-workflow
+  Session: f928878b-dfb9-48d1-90fc-78538a929ae4
+  Status: success, Turns: 4
+  → Verify skill usage with: analyze session f928878b-dfb9-48d1-90fc-78538a929ae4
+  ✓ PRESUMED SKILL ACTIVATED (no Skill denial)
+
+=== Results: 4/4 (presumed, verify with logs) ===
+
+=== Session IDs for log verification ===
+Test 1: 211ee4d5-ad73-4feb-ac49-8a656d03ac1c (expected: svelte5-runes)
+Test 2: 0b6232db-eabb-4922-8bd8-52cc7122448d (expected: svelte5-runes)
+Test 3: 2ef1aa3f-dfbb-4fc3-922e-2de9f51788be (expected: dockerfile-generator)
+Test 4: f928878b-dfb9-48d1-90fc-78538a929ae4 (expected: git-workflow)

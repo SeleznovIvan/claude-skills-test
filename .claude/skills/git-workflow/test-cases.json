@@ -1,0 +1,26 @@
+[
+  {
+    "query": "resolve git merge conflict",
+    "why": "Unique domain - only git skill"
+  },
+  {
+    "query": "help with git rebase",
+    "why": "Git rebase assistance"
+  },
+  {
+    "query": "fix my git history",
+    "why": "Git history task"
+  },
+  {
+    "query": "squash commits before PR",
+    "why": "Git squash workflow"
+  },
+  {
+    "query": "undo last git commit",
+    "why": "Git recovery task"
+  },
+  {
+    "query": "cherry pick a commit from another branch",
+    "why": "Advanced git operation"
+  }
+]

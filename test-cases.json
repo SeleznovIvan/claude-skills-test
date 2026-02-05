@@ -1,0 +1,62 @@
+[
+  {
+    "query": "use svelte5 runes",
+    "expected": "svelte5-runes",
+    "why_p0": "Explicit skill name mention"
+  },
+  {
+    "query": "create reactive state with $state",
+    "expected": "svelte5-runes",
+    "why_p0": "Unique keyword $state"
+  },
+  {
+    "query": "convert svelte 4 to svelte 5",
+    "expected": "svelte5-runes",
+    "why_p0": "Migration task with svelte 5"
+  },
+  {
+    "query": "use $derived and $effect",
+    "expected": "svelte5-runes",
+    "why_p0": "Multiple unique rune keywords"
+  },
+  {
+    "query": "write a dockerfile",
+    "expected": "dockerfile-generator",
+    "why_p0": "Unique task - only docker skill"
+  },
+  {
+    "query": "generate dockerfile for node app",
+    "expected": "dockerfile-generator",
+    "why_p0": "Docker + app context"
+  },
+  {
+    "query": "containerize my application",
+    "expected": "dockerfile-generator",
+    "why_p0": "Container synonym trigger"
+  },
+  {
+    "query": "create docker image config",
+    "expected": "dockerfile-generator",
+    "why_p0": "Docker image context"
+  },
+  {
+    "query": "resolve git merge conflict",
+    "expected": "git-workflow",
+    "why_p0": "Unique domain - only git skill"
+  },
+  {
+    "query": "help with git rebase",
+    "expected": "git-workflow",
+    "why_p0": "Git rebase assistance"
+  },
+  {
+    "query": "fix my git history",
+    "expected": "git-workflow",
+    "why_p0": "Git history task"
+  },
+  {
+    "query": "squash commits before PR",
+    "expected": "git-workflow",
+    "why_p0": "Git squash workflow"
+  }
+]
