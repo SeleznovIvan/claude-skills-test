@@ -6,9 +6,12 @@
   "plugins": [
     {
       "name": "skill-audit",
-      "source": ".",
       "description": "Portable skill activation experiment — audit and test skill activation rates in any project",
-      "version": "0.1.0"
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/SeleznovIvan/claude-skills-test.git",
+        "path": "skill-audit-plugin"
+      }
     }
   ]
 }
