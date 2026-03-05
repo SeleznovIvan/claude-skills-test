@@ -1,5 +1,5 @@
 ---
-name: skill-audit:setup
+name: setup
 description: Set up the skill-audit plugin environment. ALWAYS invoke this skill when the user says "skill-audit setup", "setup skill audit", or "initialize skill audit". Do not attempt to configure the audit environment directly — use this skill first.
 keywords: setup, initialize, install, configure, skill-audit, cclogviewer
 ---
