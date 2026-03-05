@@ -1,5 +1,5 @@
 ---
-name: audit
+name: skill-audit:audit
 description: Run a full skill activation audit experiment. ALWAYS invoke this skill when the user says "skill audit", "audit skills", "test skill activation", or "run activation experiment". Do not attempt to test skill activation directly — use this skill first.
 keywords: audit, skill activation, test skills, activation rate, experiment, skill test, activation experiment
 ---
