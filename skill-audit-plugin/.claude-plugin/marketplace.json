@@ -1,0 +1,14 @@
+{
+  "name": "skill-audit-marketplace",
+  "owner": {
+    "name": "ivanseleznov"
+  },
+  "plugins": [
+    {
+      "name": "skill-audit",
+      "source": ".",
+      "description": "Portable skill activation experiment — audit and test skill activation rates in any project",
+      "version": "0.1.0"
+    }
+  ]
+}

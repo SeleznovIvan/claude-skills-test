@@ -1,0 +1,8 @@
+{
+  "name": "skill-audit",
+  "version": "0.1.0",
+  "description": "Portable skill activation experiment — audit and test skill activation rates in any project",
+  "skills": "./skills/",
+  "agents": ["./agents/activation-tester.md"],
+  "mcpServers": "./.mcp.json"
+}

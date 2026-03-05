@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(env -u CLAUDECODE claude:*)",
+      "Bash(ls:*)",
+      "Bash(cat:*)",
+      "Bash(mkdir:*)",
+      "Bash(date:*)",
+      "mcp__cclogviewer__list_sessions",
+      "mcp__cclogviewer__list_projects",
+      "mcp__cclogviewer__search_logs",
+      "mcp__cclogviewer__get_session_timeline",
+      "mcp__cclogviewer__get_tool_usage_stats",
+      "mcp__cclogviewer__get_session_stats"
+    ]
+  },
+  "enableAllProjectMcpServers": true
+}

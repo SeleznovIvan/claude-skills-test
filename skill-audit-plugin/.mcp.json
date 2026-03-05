@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "cclogviewer": {
+      "command": "cclogviewer",
+      "args": ["mcp"],
+      "description": "Claude Code log viewer — provides session logs, tool usage stats, and timeline data for activation analysis"
+    }
+  }
+}
